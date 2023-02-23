@@ -20,8 +20,8 @@ def collect_links():
 
     for route in urls:
         cwd = Path(__file__).parents[1]
-        data_dir = "data/raw/"
-        html_link = data_dir + route[1] + ".html"
+        data_dir = os.environ["DATA_DIR"]
+        html_link = data_dir + "/raw/" + route[1] + ".html"
         new_file = os.path.join(cwd, Path(html_link))
         with open (new_file, "w") as saved_file:
             grab_text = requests.get(route[0]).text
