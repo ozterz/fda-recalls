@@ -19,10 +19,9 @@ def collect_links():
         urls.append((full_link, result.replace("/medical-devices/medical-device-recalls/", "")))
 
     for route in urls:
-        cwd = Path(__file__).parents[1]
         data_dir = os.environ["DATA_DIR"]
         html_link = data_dir + "/raw/" + route[1] + ".html"
-        new_file = os.path.join(cwd, Path(html_link))
+        new_file = Path(html_link)
         with open (new_file, "w") as saved_file:
             grab_text = requests.get(route[0]).text
             saved_file.write(grab_text)
