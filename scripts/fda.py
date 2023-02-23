@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
+from pathlib import Path
 
 url = "https://www.fda.gov/medical-devices/medical-device-recalls/2022-medical-device-recalls"
 request = requests.get(url)
@@ -11,17 +12,20 @@ site = BeautifulSoup(request.text, features = "lxml")
 #def collect_links():
 
 urls = []
+
 for link in site.find_all("a", attrs = {"href": re.compile("^/medical-devices/medical-device-recalls/")}):
     result = link.get("href")
     full_link = "https://www.fda.gov" + result
-    urls.append(full_link)
-    
-    #next: take result then add it to data/raw/name of unique id.html
+    urls.append((full_link, result.replace("/medical-devices/medical-device-recalls/", "")))
 
-
-#from pathlib import Path
-#cwd = Path(__file__).resolve.parent.parent
-#file = os.path.join(cwd, "data/raw")
+for route in urls:
+    cwd = Path(__file__).parents[1]
+    data_dir = "data/raw/"
+    html_link = data_dir + route[1] + ".html"
+    new_file = os.path.join(cwd, Path(html_link))
+    with open (new_file, "w") as saved_file:
+        grab_text = requests.get(route[0]).text
+        saved_file.write(grab_text)
 
 
 #if __name__ == "__main__":
