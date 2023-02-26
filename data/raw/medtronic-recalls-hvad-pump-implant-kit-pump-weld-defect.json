@@ -1,0 +1,209 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/CQBl4xfLI9O5l0XYrDowiQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304",
+            "document": "\nMedtronic is recalling the HVAD Pump Implant Kit due to a pump weld defect. Following an inspection of explanted pumps returned to Medtronic, an analysis showed moisture had entered the center post of the pump causing corrosion and demagnetization of the internal magnets, which may cause the pump to rotate incorrectly. Patients with affected devices may present with signs and symptoms that resemble pump thrombosis.\nIf this issue occurs, it may lead to pump malfunction, death, or severe injury (for example: shock with severe organ dysfunction, stroke), or require patients to undergo major surgery to replace the pump.\nMedtronic has received three complaints regarding this device issue, including one death, and two injuries.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:05.973"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:05.824",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|fNMipXv3f2C88nnEZtH92KGs8Dk=|iVU9ptVlmRuOAOcGbikOpxvfuqhP5rrlLn3FavljYPvmFTRlxS2mog==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/37238cff-5b6e-3359-969b-d8596d4f49f6",
+        "forenduserdisplay": "true",
+        "name": "Medical technology",
+        "importance": "1",
+        "originalValue": "Medical technology"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/843557f6-fe31-3f39-bdd4-239e32838593",
+        "forenduserdisplay": "true",
+        "name": "Cardiology",
+        "importance": "1",
+        "originalValue": "Cardiology"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/fa1c41f1-904d-3822-b911-24d179cdb59d",
+        "forenduserdisplay": "true",
+        "name": "Interventional cardiology",
+        "importance": "2",
+        "originalValue": "Interventional cardiology"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/682f3387-60a4-3d29-987e-bb37d9fbd4cd",
+        "forenduserdisplay": "true",
+        "name": "Medical devices",
+        "importance": "2",
+        "originalValue": "Medical devices"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0c1596ee-afd5-335e-bbcf-df0dbde6a847",
+        "forenduserdisplay": "true",
+        "name": "Medical equipment",
+        "importance": "2",
+        "originalValue": "Medical equipment"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ee3332c6-6557-33fa-89c2-6c877dd8e095",
+        "forenduserdisplay": "true",
+        "name": "Pump thrombosis",
+        "importance": "2",
+        "originalValue": "Pump thrombosis"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ede3ce3b-03fd-3fad-912c-c1cb513835cb",
+        "forenduserdisplay": "true",
+        "name": "Medtronic",
+        "importance": "2",
+        "originalValue": "Medtronic"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9cddd2d3-6bf6-3638-85c0-6132f51fe645",
+        "forenduserdisplay": "true",
+        "name": "Pump",
+        "importance": "2",
+        "originalValue": "Pump"
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Advanced Medical Equipment & Technology (NEC)",
+        "rcscode": "B:1700",
+        "permid": "4294951301",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/b590d755-8fac-30f5-a054-f050b0a2d304/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/f4555de7-f0df-35dc-86fe-0451d6a4e62c": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Medtronic",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Medtronic[ is recalling the HVAD Pump Implant Kit due to a]",
+                "prefix": "\n",
+                "exact": "Medtronic",
+                "suffix": " is recalling the HVAD Pump Implant Kit due to a",
+                "offset": 1,
+                "length": 9
+            },
+            {
+                "detection": "[an inspection of explanted pumps returned to ]Medtronic[, an analysis showed moisture had entered the]",
+                "prefix": "an inspection of explanted pumps returned to ",
+                "exact": "Medtronic",
+                "suffix": ", an analysis showed moisture had entered the",
+                "offset": 132,
+                "length": 9
+            },
+            {
+                "detection": "[to undergo major surgery to replace the pump.\n]Medtronic[ has received three complaints regarding this]",
+                "prefix": "to undergo major surgery to replace the pump.\n",
+                "exact": "Medtronic",
+                "suffix": " has received three complaints regarding this",
+                "offset": 625,
+                "length": 9
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "MEDTRONIC INC",
+                "permid": "4295904505",
+                "ispublic": "false",
+                "commonname": "Medtronic Inc",
+                "score": 1,
+                "id": "https://permid.org/1-4295904505"
+            },
+            {
+                "name": "MEDTRONIC PUBLIC LIMITED COMPANY",
+                "permid": "5043331632",
+                "primaryric": "MDT.N",
+                "ispublic": "true",
+                "commonname": "Medtronic",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-5043331632",
+                "ticker": "MDT"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.947",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "1.0"
+        }
+    }
+}

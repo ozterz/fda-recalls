@@ -1,0 +1,211 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/EvXaTBZKVP2U8v7KreXY9w",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0",
+            "document": "\nGE Healthcare is recalling CARESCAPE R860 ventilator backup batteries, including replacement backup batteries, manufactured on or after April 1, 2019, because the batteries may run out before they are expected to do so. If the ventilator is running on battery power only when the battery fails, ventilation could stop completely, preventing the patient from receiving oxygen and breathing support. \nLack of oxygen (hypoxia), especially if it occurs over a long period, can cause serious injury and death.  \nThere have been 1,553 complaints, no injuries, and no deaths associated with the use of this device.  \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:02.787"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:02.652",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|KCW31s7DllhE8N/dSZSef+L/rmE=|CBjt/Ec2y05mCUyLSrADHD5adG0OUQ9HcsEvfe1WR4MX4kPFbr/eeA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/05c08489-a304-3dc7-8c8d-9d60f0febe43",
+        "forenduserdisplay": "true",
+        "name": "Medical specialties",
+        "importance": "1",
+        "originalValue": "Medical specialties"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/7d5fb999-44f0-3fee-b735-1a81513e0c68",
+        "forenduserdisplay": "true",
+        "name": "Respiratory therapy",
+        "importance": "2",
+        "originalValue": "Respiratory therapy"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2aa66ee5-ba43-354e-b83f-87c4d3adddc2",
+        "forenduserdisplay": "true",
+        "name": "Diving medicine",
+        "importance": "2",
+        "originalValue": "Diving medicine"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a3a48488-2062-362e-87d8-0a40bb00bf42",
+        "forenduserdisplay": "true",
+        "name": "Oxygen",
+        "importance": "2",
+        "originalValue": "Oxygen"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/be5f95dc-cb4b-3e99-bf4c-6671bf6aea0f",
+        "forenduserdisplay": "true",
+        "name": "Pulmonology",
+        "importance": "2",
+        "originalValue": "Pulmonology"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/26c5c996-6a93-315c-8607-5e7821f10971",
+        "forenduserdisplay": "true",
+        "name": "Intensive care medicine",
+        "importance": "2",
+        "originalValue": "Intensive care medicine"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70685a88-07f1-357c-af87-34d408b8b562",
+        "forenduserdisplay": "true",
+        "name": "Medical ventilator",
+        "importance": "2",
+        "originalValue": "Medical ventilator"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ac81d5d1-c61d-3446-acc3-4dad0554e210",
+        "forenduserdisplay": "true",
+        "name": "Electric battery",
+        "importance": "2",
+        "originalValue": "Electric battery"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3572ffe3-feaf-3637-afda-a4b089e7f56c",
+        "forenduserdisplay": "true",
+        "name": "Hypoxia",
+        "importance": "2",
+        "originalValue": "Hypoxia (medical)"
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Advanced Medical Equipment & Technology (NEC)",
+        "rcscode": "B:1700",
+        "permid": "4294951301",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/b648de80-1dbf-398f-995f-74a7f15bcb75": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "GE Healthcare",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.914",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "1.0"
+        },
+        "resolutions": [
+            {
+                "name": "GE HEALTHCARE LIMITED",
+                "permid": "5000001303",
+                "ispublic": "false",
+                "commonname": "GE Hlthcare",
+                "score": 1,
+                "id": "https://permid.org/1-5000001303"
+            },
+            {
+                "name": "GENERAL ELECTRIC COMPANY",
+                "permid": "4295903128",
+                "primaryric": "GE.N",
+                "ispublic": "true",
+                "commonname": "GE",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-4295903128",
+                "ticker": "GE"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]GE Healthcare[ is recalling CARESCAPE R860 ventilator backup]",
+                "prefix": "\n",
+                "exact": "GE Healthcare",
+                "suffix": " is recalling CARESCAPE R860 ventilator backup",
+                "offset": 1,
+                "length": 13
+            }
+        ],
+        "relevance": 0.8
+    }
+}

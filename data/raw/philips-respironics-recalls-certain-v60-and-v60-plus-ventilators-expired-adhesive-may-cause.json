@@ -1,0 +1,185 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/fJI-VxC7nd4R3reW6RXKKQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c",
+            "document": "\nPhilips Respironics is recalling Certain V60 and V60 Plus ventilators because a subset of these devices had parts that were put together using an expired adhesive. If the adhesive fails, it could cause a capacitor support bracket to become loose and potentially damage the capacitors, which could cause the ventilator to stop providing ventilation to the patient. This failure may cause an alarm to notify the health care provider, or it may not sound any alarm at all.\nIf ventilation stops and sounds an alarm, patients could be without ventilation support for the duration required for an alternate ventilator to be connected. If the ventilator does not sound an alarm when the ventilation stops, the patient could be deprived of oxygen for an extended time, which could cause serious adverse health consequences and death.\nThere have been no reports of injuries, adverse health consequences, or death associated with the use of these devices.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:54.200"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:54.006",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|WcOUapu160h+hRPtDmcUp8vjqwg=|XpYi7J/NSacR5tNfuBudIGE8Or0Mq+Ixf5SrhvndMzV3i3AAgS/3Tg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/107e68b0-f33b-34b5-8f7d-998d8a4dd350",
+        "forenduserdisplay": "true",
+        "name": "Health care",
+        "importance": "1",
+        "originalValue": "Health care"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/7d5fb999-44f0-3fee-b735-1a81513e0c68",
+        "forenduserdisplay": "true",
+        "name": "Respiratory therapy",
+        "importance": "1",
+        "originalValue": "Respiratory therapy"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "2",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e9b28f14-0020-3e77-9fa3-070386287d4f",
+        "forenduserdisplay": "true",
+        "name": "Mechanical ventilation",
+        "importance": "2",
+        "originalValue": "Mechanical ventilation"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0c1596ee-afd5-335e-bbcf-df0dbde6a847",
+        "forenduserdisplay": "true",
+        "name": "Medical equipment",
+        "importance": "2",
+        "originalValue": "Medical equipment"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70685a88-07f1-357c-af87-34d408b8b562",
+        "forenduserdisplay": "true",
+        "name": "Medical ventilator",
+        "importance": "2",
+        "originalValue": "Medical ventilator"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/fdd52564-4633-3bb5-b393-cdbeea83a349",
+        "forenduserdisplay": "true",
+        "name": "Respironics",
+        "importance": "2",
+        "originalValue": "Respironics"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9cdb98ec-0e6a-331a-ab2a-4d52b7da048e",
+        "forenduserdisplay": "true",
+        "name": "Philips",
+        "importance": "2",
+        "originalValue": "Philips"
+    },
+    "http://d.opencalais.com/dochash-1/17934753-1ae3-3e62-a9c3-06be3bf2dd7c/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/1512e99d-2e6c-3131-8a7c-b7520bec0007": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Philips Respironics",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Philips Respironics[ is recalling Certain V60 and V60 Plus]",
+                "prefix": "\n",
+                "exact": "Philips Respironics",
+                "suffix": " is recalling Certain V60 and V60 Plus",
+                "offset": 1,
+                "length": 19
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.914",
+            "dblookup": "0.0",
+            "resolution": "0.041303355",
+            "aggregate": "1.0"
+        },
+        "resolutions": [
+            {
+                "name": "Koninklijke Philips N.V.",
+                "permid": "4295884721",
+                "primaryric": "PHG.AS",
+                "ispublic": "true",
+                "commonname": "Philips",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-4295884721",
+                "ticker": "PHIA"
+            },
+            {
+                "name": "Philips Respironics GK",
+                "permid": "5000658033",
+                "ispublic": "false",
+                "commonname": "Philips RESP",
+                "score": 0.041303355,
+                "id": "https://permid.org/1-5000658033"
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/DOy6v*3ifTI6V2ArA9ytfw",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90",
+            "document": "\nMedtronic is recalling (correcting) this product due to design similarities shared with another device that was recently recalled for correction. There is a risk of the guidewire within the catheter moving downward or prolapsing (See Figure 1) when force is applied during use. If this happens, the catheter tip may break off or separate and this could lead to serious adverse events including a tear along the inside wall of an artery (arterial dissection), a rupture or breakage of an artery (arterial rupture), decrease in blood flow to a part of the body because of a blocked artery (ischemia), and/or blood vessel complications that could require surgical repair and additional procedures to capture and remove the detached and/or migrated (embolized) tip.\nAs of February 7, 2022, there have been no reported injuries or deaths associated with this problem. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:25.751"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:25.628",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|x2wE5wR345dYqT9UsvDa7fbrVq8=|F0BIFji7TQPH2mr3f0KTBlaqFUoXe/5kw8fZAX7MjyntAwU0izavIQ==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/05c08489-a304-3dc7-8c8d-9d60f0febe43",
+        "forenduserdisplay": "true",
+        "name": "Medical specialties",
+        "importance": "1",
+        "originalValue": "Medical specialties"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0303fd18-635e-390b-b5ef-7b981e761ded",
+        "forenduserdisplay": "true",
+        "name": "Gross pathology",
+        "importance": "1",
+        "originalValue": "Gross pathology"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/cefbfac1-3dd1-3a07-b6a2-8658597ce536",
+        "forenduserdisplay": "true",
+        "name": "Interventional radiology",
+        "importance": "2",
+        "originalValue": "Interventional radiology"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/255778a2-9393-37a9-b987-db0fb0523d4c",
+        "forenduserdisplay": "true",
+        "name": "Catheter",
+        "importance": "2",
+        "originalValue": "Catheter"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d471e605-6ec8-312c-a1e2-df0b8950dffc",
+        "forenduserdisplay": "true",
+        "name": "Dissection",
+        "importance": "2",
+        "originalValue": "Dissection (medical)"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f9aaad2c-341a-3ed3-bb2d-ad7a13fa2a56",
+        "forenduserdisplay": "true",
+        "name": "Branches of biology",
+        "importance": "2",
+        "originalValue": "Branches of biology"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b00c5662-d59d-3749-9694-f8429c0ffe6a",
+        "forenduserdisplay": "true",
+        "name": "Percutaneous coronary intervention",
+        "importance": "2",
+        "originalValue": "Percutaneous coronary intervention"
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Advanced Medical Equipment & Technology (NEC)",
+        "rcscode": "B:1700",
+        "permid": "4294951301",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/bc3cd8fd-aef2-3b09-a727-61c58c175a90/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/f4555de7-f0df-35dc-86fe-0451d6a4e62c": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Medtronic",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Medtronic[ is recalling (correcting) this product due to]",
+                "prefix": "\n",
+                "exact": "Medtronic",
+                "suffix": " is recalling (correcting) this product due to",
+                "offset": 1,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "MEDTRONIC INC",
+                "permid": "4295904505",
+                "ispublic": "false",
+                "commonname": "Medtronic Inc",
+                "score": 1,
+                "id": "https://permid.org/1-4295904505"
+            },
+            {
+                "name": "MEDTRONIC PUBLIC LIMITED COMPANY",
+                "permid": "5043331632",
+                "primaryric": "MDT.N",
+                "ispublic": "true",
+                "commonname": "Medtronic",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-5043331632",
+                "ticker": "MDT"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.905",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "1.0"
+        }
+    }
+}

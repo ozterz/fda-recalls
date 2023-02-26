@@ -1,0 +1,184 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/hUSbXF12Ik1D8Ki1ZHmBMw",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8",
+            "document": "\nArrow International, LLC, a subsidiary of Teleflex, Inc, is recalling Arrow AutoCAT 2 and AC3 Intra-Aortic Balloon Pumps after receiving complaints that battery power is not lasting as long as expected. A fully charged battery should last 90 minutes, however, multiple users report the devices are experiencing shorter run times. The battery life warnings, designed to sound at 20, 10, and 5 minutes of battery power remaining, are also inaccurate as the battery depletes more rapidly than indicated. \nIf the pump’s battery depletes, the pump may stop when operated on battery power only. Sudden stopping of the pump’s mechanical support to the patient’s heart can lead to cardiac arrest, stroke, or death. \nThere have been 241 complaints, with 135 reported pump stops. No deaths have been reported related to this issue. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:47.872"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:47.675",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|Y6XmyfKXZyxN/IFKfbWXyZN+stw=|g9JImeqCXFYAJxNy587RfEb7/I9t4U/5JuyyguPzhpwpPkqRzSj4Jw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/843557f6-fe31-3f39-bdd4-239e32838593",
+        "forenduserdisplay": "true",
+        "name": "Cardiology",
+        "importance": "1",
+        "originalValue": "Cardiology"
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/13ed08c2-b581-3210-9572-5a63be7a21cf",
+        "forenduserdisplay": "true",
+        "name": "Intra-aortic balloon pump",
+        "importance": "1",
+        "originalValue": "Intra-aortic balloon pump"
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9cddd2d3-6bf6-3638-85c0-6132f51fe645",
+        "forenduserdisplay": "true",
+        "name": "Pump",
+        "importance": "1",
+        "originalValue": "Pump"
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Pharmaceuticals (NEC)",
+        "rcscode": "B:1729",
+        "permid": "4294951272",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/028893c8-dbc4-36b6-8f6e-77bf61f90df8/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/a344d6a6-cadd-3de6-8cbc-85fe7e3e175b": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Arrow International LLC",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Arrow International, LLC[, a subsidiary of Teleflex, Inc, is recalling]",
+                "prefix": "\n",
+                "exact": "Arrow International, LLC",
+                "suffix": ", a subsidiary of Teleflex, Inc, is recalling",
+                "offset": 1,
+                "length": 24
+            },
+            {
+                "detection": "[ LLC, a subsidiary of Teleflex, Inc, is recalling ]Arrow[ AutoCAT 2 and AC3 Intra-Aortic Balloon Pumps]",
+                "prefix": " LLC, a subsidiary of Teleflex, Inc, is recalling ",
+                "exact": "Arrow",
+                "suffix": " AutoCAT 2 and AC3 Intra-Aortic Balloon Pumps",
+                "offset": 71,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "ARROW INTERNATIONAL LLC",
+                "permid": "5079693426",
+                "ispublic": "false",
+                "commonname": "Arrow Intl",
+                "score": 0.03010461,
+                "id": "https://permid.org/1-5079693426"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.889",
+            "dblookup": "0.0",
+            "resolution": "0.03010461",
+            "aggregate": "1.0"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/befe74b9-b091-3bf8-8f3a-8206b8e034aa": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Teleflex Inc",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.98978156",
+            "aggregate": "0.999"
+        },
+        "resolutions": [
+            {
+                "name": "TELEFLEX INCORPORATED",
+                "permid": "4295905048",
+                "primaryric": "TFX.N",
+                "ispublic": "true",
+                "commonname": "Teleflex",
+                "score": 0.98978156,
+                "id": "https://permid.org/1-4295905048",
+                "ticker": "TFX"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[International, LLC, a subsidiary of ]Teleflex, Inc[, is recalling Arrow AutoCAT 2 and AC3]",
+                "prefix": "International, LLC, a subsidiary of ",
+                "exact": "Teleflex, Inc",
+                "suffix": ", is recalling Arrow AutoCAT 2 and AC3",
+                "offset": 43,
+                "length": 13
+            }
+        ],
+        "relevance": 0.8
+    }
+}

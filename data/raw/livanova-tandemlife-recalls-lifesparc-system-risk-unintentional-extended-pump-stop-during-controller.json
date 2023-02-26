@@ -1,0 +1,121 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/YUheKBrfL7haOFZxpTaCpg",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8",
+            "document": "\nLivaNova (TandemLife) is recalling the LifeSPARC Controller, part of the LifeSPARC System due to a software malfunction. The controller’s monitoring feature may erroneously detect frozen or unresponsive software and trigger the device to enter Critical Failure mode—clearing the controller screen and issuing an alarm that cannot be muted or turned off. \nWhile the LifeSPARC Pump should continue to run at the set speed with the allowance of manual speed adjustment in Critical Failure mode, the user has to replace the controller using instructions from the Operations Manual, before disconnecting the pump from the frozen controller. If the user does not follow these specific instructions and powers off the frozen controller prior to acquiring and setting up the backup controller, the pump may stop for an extended period of time during the replacement process. \nAn extended pump stop during use may cause serious injury or death to the patient. \nLivaNova reported that there have been 66 complaints, and the FDA has received two injuries and no deaths due to this issue.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:46.173"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:45.966",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|JCjhe0kQkGbZAWvk1+Iv22rq/Ig=|WPD4N+C1SXzuGBW3iRupRI4Vr+hcfWcluvOsrbpLLZoF5CgLcFdsPg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9811d7d9-db57-3449-add6-bd58f6fbd7c2",
+        "forenduserdisplay": "true",
+        "name": "Video game controllers",
+        "importance": "1",
+        "originalValue": "Video game controllers"
+    },
+    "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/750c1921-9b4d-359f-b440-449fefc0be6c": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "LivaNova",
+        "nationality": "N/A",
+        "confidencelevel": "0.719",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "LIVANOVA PLC",
+                "permid": "5045870115",
+                "primaryric": "LIVN.OQ",
+                "ispublic": "true",
+                "commonname": "LivaNova",
+                "score": 0.4097863,
+                "id": "https://permid.org/1-5045870115",
+                "ticker": "LIVN"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.71",
+            "dblookup": "0.0",
+            "resolution": "0.4097863",
+            "aggregate": "0.719"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]LivaNova (TandemLife)[ is recalling the LifeSPARC Controller, part of]",
+                "prefix": "\n",
+                "exact": "LivaNova (TandemLife)",
+                "suffix": " is recalling the LifeSPARC Controller, part of",
+                "offset": 1,
+                "length": 21
+            },
+            {
+                "detection": "[cause serious injury or death to the patient. \n]LivaNova[ reported that there have been 66 complaints, and]",
+                "prefix": "cause serious injury or death to the patient. \n",
+                "exact": "LivaNova",
+                "suffix": " reported that there have been 66 complaints, and",
+                "offset": 953,
+                "length": 8
+            }
+        ],
+        "relevance": 0.8
+    }
+}

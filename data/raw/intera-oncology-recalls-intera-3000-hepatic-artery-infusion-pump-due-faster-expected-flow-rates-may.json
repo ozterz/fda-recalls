@@ -1,0 +1,182 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/jEJT1LMK38*G8yMSlMd*Xw",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722",
+            "document": "\nIntera Oncology is recalling certain units of Intera 3000 Hepatic Artery Infusion Pumps (50 products in the U.S.) after receiving reports from clinicians that the affected pumps were delivering medications (flow rate) faster than expected.\nIf the pump delivers infusions at faster than expected flow rates, the patient may receive more medication than planned, which could result in increased risk of liver toxicity if the fast flow is not recognized and adjusted to deliver the appropriate dose. If too much drug is administered, it may result in serious adverse health consequences.\nThere have been three incidents reported related to this issue, with no injuries or deaths.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:58.973"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:58.803",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|ItboOEMTFxWM4hhQXD/EXmy1q48=|JRzjG/kR8+NAI67RVzO1lT70EWccAtI3Zh51yrV7lLSbg6+l4ApEQg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/81657162-3bcb-3cee-a25b-4a25ff3866c0",
+        "forenduserdisplay": "true",
+        "name": "Dosage forms",
+        "importance": "1",
+        "originalValue": "Dosage forms"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5411d36e-dbb9-3fe5-b418-0755124e80a1",
+        "forenduserdisplay": "true",
+        "name": "Hepatology",
+        "importance": "2",
+        "originalValue": "Hepatology"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/693a7709-3450-31dc-b476-d188c1994d57",
+        "forenduserdisplay": "true",
+        "name": "Infusion pump",
+        "importance": "2",
+        "originalValue": "Infusion pump"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9cddd2d3-6bf6-3638-85c0-6132f51fe645",
+        "forenduserdisplay": "true",
+        "name": "Pump",
+        "importance": "2",
+        "originalValue": "Pump"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2de13baf-7017-3bbc-b1ff-056346e98085",
+        "forenduserdisplay": "true",
+        "name": "Hepatotoxicity",
+        "importance": "2",
+        "originalValue": "Hepatotoxicity"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9c80e3da-f846-3322-bb17-a12fd8e82d4a",
+        "forenduserdisplay": "true",
+        "name": "Liver",
+        "importance": "2",
+        "originalValue": "Liver"
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Biotechnology & Medical Research (NEC)",
+        "rcscode": "B:1736",
+        "permid": "4294951265",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/304f41ad-7bf8-3bd2-8c3e-2480ec1b0722/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/7454d9a5-5c86-35cc-906b-556d185771b9": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Intera Oncology",
+        "nationality": "N/A",
+        "confidencelevel": "0.62",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Intera Oncology[ is recalling certain units of Intera 3000]",
+                "prefix": "\n",
+                "exact": "Intera Oncology",
+                "suffix": " is recalling certain units of Intera 3000",
+                "offset": 1,
+                "length": 15
+            },
+            {
+                "detection": "[Oncology is recalling certain units of ]Intera[ 3000 Hepatic Artery Infusion Pumps (50 products]",
+                "prefix": "Oncology is recalling certain units of ",
+                "exact": "Intera",
+                "suffix": " 3000 Hepatic Artery Infusion Pumps (50 products",
+                "offset": 47,
+                "length": 6
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "Intera Oncology Inc.",
+                "permid": "5070519692",
+                "ispublic": "false",
+                "commonname": "Intera Oncology",
+                "score": 0.023949463,
+                "id": "https://permid.org/1-5070519692"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.732",
+            "dblookup": "0.0",
+            "resolution": "0.023949463",
+            "aggregate": "0.62"
+        }
+    }
+}

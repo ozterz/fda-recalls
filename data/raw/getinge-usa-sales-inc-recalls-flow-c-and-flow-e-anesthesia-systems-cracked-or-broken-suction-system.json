@@ -1,0 +1,257 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/dCQ6ejUKg6vwdYhZ7MaFoQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53",
+            "document": "\nGetinge is recalling the Flow-c and Flow-e Anesthesia Systems after receiving reports of cracked or broken on/off switches on the system’s suction unit. If the on/off switch breaks, the suction unit will not work to remove fluids such as phlegm, blood, or stomach (gastric) content from the patient’s mouth and/or airways.\nThis issue could cause a delay during a procedure or in between procedures if the anesthesiologist needs to find another way to suction fluids. Additionally, if the suction device is not working for a longer period of time, these fluids could block a patient’s breathing. The risks of such a blockage may include:\nChoking\nInability of oxygen to get into the blood (acute respiratory failure or ARDS)\nAn infection in the lungs (pneumonia) that prevents oxygen from getting to the blood (respiratory failure)\nBrain injury caused by lack of oxygen to the brain (hypoxia)\nDeath\nThere have been 21 complaints, no injuries and no deaths associated with the use of this device.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:30.850"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:30.671",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|vlOQ2/DMbZMOdMxFf8VHbLIutio=|Ad+a54Wp2I9PU9zWOoB2ZrrFsRGPm2yd4+0rY4DhTioR89WI+niQJg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/05c08489-a304-3dc7-8c8d-9d60f0febe43",
+        "forenduserdisplay": "true",
+        "name": "Medical specialties",
+        "importance": "1",
+        "originalValue": "Medical specialties"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/67879780-2f84-377e-b981-123783ac1ee9",
+        "forenduserdisplay": "true",
+        "name": "Medical emergencies",
+        "importance": "2",
+        "originalValue": "Medical emergencies"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2aa66ee5-ba43-354e-b83f-87c4d3adddc2",
+        "forenduserdisplay": "true",
+        "name": "Diving medicine",
+        "importance": "2",
+        "originalValue": "Diving medicine"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a3a48488-2062-362e-87d8-0a40bb00bf42",
+        "forenduserdisplay": "true",
+        "name": "Oxygen",
+        "importance": "2",
+        "originalValue": "Oxygen"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/26c5c996-6a93-315c-8607-5e7821f10971",
+        "forenduserdisplay": "true",
+        "name": "Intensive care medicine",
+        "importance": "2",
+        "originalValue": "Intensive care medicine"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5957c11b-4f08-3f25-9e02-ea249a0ce594",
+        "forenduserdisplay": "true",
+        "name": "Respiratory diseases",
+        "importance": "2",
+        "originalValue": "Respiratory diseases"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0573bfa9-2735-31ac-9263-5a321a074f9c",
+        "forenduserdisplay": "true",
+        "name": "Suction",
+        "importance": "2",
+        "originalValue": "Suction (medicine)"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3572ffe3-feaf-3637-afda-a4b089e7f56c",
+        "forenduserdisplay": "true",
+        "name": "Hypoxia",
+        "importance": "2",
+        "originalValue": "Hypoxia (medical)"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f37d6286-c25b-3234-b613-b6c6ed91ebf9",
+        "forenduserdisplay": "true",
+        "name": "Respiratory failure",
+        "importance": "2",
+        "originalValue": "Respiratory failure"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8646aa8d-b743-31f4-bbda-8f1bc9cd9dc9",
+        "forenduserdisplay": "true",
+        "name": "Choking",
+        "importance": "2",
+        "originalValue": "Choking"
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Healthcare Facilities & Services (NEC)",
+        "rcscode": "B:1717",
+        "permid": "4294951284",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment",
+        "rcscode": "B:1710",
+        "permid": "4294951291",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/a73ebf74-8d6c-3b00-9efa-78d427811f5a": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Anesthesia Systems",
+        "nationality": "N/A",
+        "confidencelevel": "0.854",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "U.S. ANESTHESIA PARTNERS, INC.",
+                "permid": "5037951271",
+                "ispublic": "false",
+                "commonname": "US Anesthesia",
+                "score": 0.13673373,
+                "id": "https://permid.org/1-5037951271"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[is recalling the Flow-c and Flow-e ]Anesthesia Systems[ after receiving reports of cracked or broken]",
+                "prefix": "is recalling the Flow-c and Flow-e ",
+                "exact": "Anesthesia Systems",
+                "suffix": " after receiving reports of cracked or broken",
+                "offset": 44,
+                "length": 18
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.906",
+            "dblookup": "0.0",
+            "resolution": "0.13673373",
+            "aggregate": "0.854"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/78fd3096-e701-3748-b413-1f518d04e978": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Getinge",
+        "nationality": "N/A",
+        "confidencelevel": "0.533",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Getinge[ is recalling the Flow-c and Flow-e Anesthesia]",
+                "prefix": "\n",
+                "exact": "Getinge",
+                "suffix": " is recalling the Flow-c and Flow-e Anesthesia",
+                "offset": 1,
+                "length": 7
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "0.11596602",
+            "aggregate": "0.533"
+        },
+        "resolutions": [
+            {
+                "name": "Getinge AB",
+                "permid": "4295889996",
+                "primaryric": "GETIb.ST",
+                "ispublic": "true",
+                "commonname": "Getinge",
+                "score": 0.11596602,
+                "id": "https://permid.org/1-4295889996",
+                "ticker": "GETI B"
+            }
+        ]
+    }
+}

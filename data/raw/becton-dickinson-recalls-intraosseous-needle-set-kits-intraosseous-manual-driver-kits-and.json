@@ -1,0 +1,209 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/RrTFwReQAOhc7y0LA*FTXQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a",
+            "document": "\nBecton Dickinson is recalling the BD Intraosseous Needle Set Kits, BD Intraosseous Manual Driver Kits, and BD Intraosseous Powered Drivers for three separate issues:\nThe stylet may be difficult to separate from the needle or may not separate at all. This may result in inadvertent removal of the entire needle assembly during placement, or the clinician may be unable to remove the stylet from the needle, both resulting in functional loss of intraosseous access.\nThe needle safety mechanism may not properly deploy as the stylet is removed from the intraosseous needle after placement.\nMetal discs may stick in the powered driver, which may render it unusable.\nThese issues can cause delays in care due to the inability to place functional intraosseous access. Since intraosseous access is most often used in critically ill patients, including those with cardiopulmonary arrest or severe shock, the potential delays in care can cause serious injury or death. There is also the risk of needle stick injury.\nThere have been 37 complaints with no serious injuries or deaths reported associated with these recall issues.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:55.795"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:55.636",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|ppLcnNt2D/fma2CQi0b3k5rkwhs=|lKvbt+qjoygpzIBz4p8ZCzcas3NapHtGbbQw4q08KbooAIWlaJ9CEA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/13f9a799-4d99-3b8a-9a54-37291840345a",
+        "forenduserdisplay": "true",
+        "name": "Clinical medicine",
+        "importance": "1",
+        "originalValue": "Clinical medicine"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/81657162-3bcb-3cee-a25b-4a25ff3866c0",
+        "forenduserdisplay": "true",
+        "name": "Dosage forms",
+        "importance": "2",
+        "originalValue": "Dosage forms"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70645e09-343d-320a-b34b-6a02eb7c4183",
+        "forenduserdisplay": "true",
+        "name": "Routes of administration",
+        "importance": "2",
+        "originalValue": "Routes of administration"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5eeb4bea-be17-37c6-ac4e-34e2a8348e39",
+        "forenduserdisplay": "true",
+        "name": "Intraosseous infusion",
+        "importance": "2",
+        "originalValue": "Intraosseous infusion"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9703d882-5d79-3d58-8bc5-d44e35fe46bb",
+        "forenduserdisplay": "true",
+        "name": "Stylet",
+        "importance": "2",
+        "originalValue": "Stylet (anatomy)"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d3f46410-e9e3-333a-bb77-bed48fe70e27",
+        "forenduserdisplay": "true",
+        "name": "Becton Dickinson",
+        "importance": "2",
+        "originalValue": "Becton Dickinson"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/dec1f385-7642-3c4b-812e-fa9b062c3f55",
+        "forenduserdisplay": "true",
+        "name": "Needlestick injury",
+        "importance": "2",
+        "originalValue": "Needlestick injury"
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/39a7cdf7-2529-373b-8de0-7b0afbe07047": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Becton Dickinson",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.947",
+            "dblookup": "0.0",
+            "resolution": "0.9689149",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Becton Dickinson[ is recalling the BD Intraosseous Needle Set]",
+                "prefix": "\n",
+                "exact": "Becton Dickinson",
+                "suffix": " is recalling the BD Intraosseous Needle Set",
+                "offset": 1,
+                "length": 16
+            },
+            {
+                "detection": "[Dickinson is recalling the ]BD[ Intraosseous Needle Set Kits, BD Intraosseous]",
+                "prefix": "Dickinson is recalling the ",
+                "exact": "BD",
+                "suffix": " Intraosseous Needle Set Kits, BD Intraosseous",
+                "offset": 35,
+                "length": 2
+            },
+            {
+                "detection": "[recalling the BD Intraosseous Needle Set Kits, ]BD[ Intraosseous Manual Driver Kits, and BD]",
+                "prefix": "recalling the BD Intraosseous Needle Set Kits, ",
+                "exact": "BD",
+                "suffix": " Intraosseous Manual Driver Kits, and BD",
+                "offset": 68,
+                "length": 2
+            },
+            {
+                "detection": "[Kits, BD Intraosseous Manual Driver Kits, and ]BD[ Intraosseous Powered Drivers for three separate]",
+                "prefix": "Kits, BD Intraosseous Manual Driver Kits, and ",
+                "exact": "BD",
+                "suffix": " Intraosseous Powered Drivers for three separate",
+                "offset": 108,
+                "length": 2
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "BECTON, DICKINSON AND COMPANY",
+                "permid": "4295903533",
+                "primaryric": "BDX.N",
+                "ispublic": "true",
+                "commonname": "BD",
+                "score": 0.9689149,
+                "id": "https://permid.org/1-4295903533",
+                "ticker": "BDX"
+            }
+        ]
+    }
+}

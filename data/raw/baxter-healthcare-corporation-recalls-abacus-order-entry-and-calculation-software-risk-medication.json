@@ -1,0 +1,148 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/dmZ*h9rmZQybSyEBI4wzPQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8",
+            "document": "\nBaxter Healthcare Corporation is recalling the Abacus software application due to a risk that final printed bag labels for compounded mixtures may contain incorrect information. The issue may occur if a user unintentionally or incorrectly modifies a label template that is used to provide clinical care. \nIncorrect values or patient names on final printed bag labels for compounded medications may cause serious harm, especially if the wrong amounts or wrong medications are administered to high-risk patients. \nThere have been 5 complaints, no injuries, and no deaths associated with this software issue. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:41.081"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:40.943",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|sIZszXArXrkPkfdVCXbEuxT2Poc=|VLohrWolYmMhVDEdF54ItmXlONCBmIKdfc3ayrOcHezhvo9ePx0DfQ==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/17c105ec-ade7-317b-bce9-a332575b7e1d",
+        "forenduserdisplay": "true",
+        "name": "Patient safety",
+        "importance": "1",
+        "originalValue": "Patient safety"
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/c19f7fb0-80d0-3014-b46e-63892acdfd72",
+        "forenduserdisplay": "true",
+        "name": "Medical diagnosis",
+        "importance": "1",
+        "originalValue": "Medical diagnosis"
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ece49094-2fc7-32ed-971f-073676dc0329",
+        "forenduserdisplay": "true",
+        "name": "Medical error",
+        "importance": "1",
+        "originalValue": "Medical error"
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/6f039cf7-a128-34ba-ac05-24cd556eee80",
+        "forenduserdisplay": "true",
+        "name": "Pharmacy",
+        "importance": "2",
+        "originalValue": "Pharmacy"
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Pharmaceuticals (NEC)",
+        "rcscode": "B:1729",
+        "permid": "4294951272",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/1c24e6cd-9985-358e-8e53-d4a428e23db8/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/72aa16fe-57c8-3485-801e-3c027388cdec": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Baxter Healthcare Corporation",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.889",
+            "dblookup": "0.0",
+            "resolution": "0.14713788",
+            "aggregate": "1.0"
+        },
+        "resolutions": [
+            {
+                "name": "BAXTER HEALTHCARE CORPORATION",
+                "permid": "4298443473",
+                "ispublic": "false",
+                "commonname": "Baxter Hlthcr",
+                "score": 0.14713788,
+                "id": "https://permid.org/1-4298443473"
+            },
+            {
+                "name": "BAXTER INTERNATIONAL INC.",
+                "permid": "4295903531",
+                "primaryric": "BAX.N",
+                "ispublic": "true",
+                "commonname": "Baxter Intl",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-4295903531",
+                "ticker": "BAX"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Baxter Healthcare Corporation[ is recalling the Abacus software application due]",
+                "prefix": "\n",
+                "exact": "Baxter Healthcare Corporation",
+                "suffix": " is recalling the Abacus software application due",
+                "offset": 1,
+                "length": 29
+            }
+        ],
+        "relevance": 0.8
+    }
+}

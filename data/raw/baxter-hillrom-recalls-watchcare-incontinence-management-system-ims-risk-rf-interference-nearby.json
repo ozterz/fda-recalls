@@ -1,0 +1,200 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/pAoTSUjBx5OBHd0dRfS4ow",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a",
+            "document": "\nBaxter Hillrom is recalling the WatchCare IMS after receiving reports that the radiofrequency emissions (RF) from WatchCare devices may interfere with other medical devices, including equipment that is critical to the health and wellbeing of patients, such as:\nInfusion pumps \nInsulin pumps\nBlood glucose sensors\nFetal monitors / dopplers\nTelemetry devices\nBladder scanners\nOther third-party medical devices may also be affected. The RF interference from WatchCare may cause erroneous readings or malfunctions of these other devices on both patients and staff, which could lead to inappropriate medical treatments or lack of treatment. If WatchCare RF emissions affect a medically necessary device such as a blood glucose sensor, insulin pump, fetal monitor, or general infusion pump, among others, this issue could lead to serious injury or death.\nBaxter reported 96 complaints of interference. To date, interferences in all cases but two occurred at distances less than 1 meter. There is insufficient data about distance on the remaining two reported interferences. There have been no reports of serious injuries or deaths related to this issue. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:27.569"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:27.387",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|sHYxKiTsrBmD+5F37X/zxanmoL8=|RQn0V/bUxpdNKDzKygX0NCCHvSQh0tjJT1kamj9p7rHQ5Ltm5jCk+Q==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/10b3cf1d-cab1-356d-9f18-b36e5f21fd43",
+        "forenduserdisplay": "true",
+        "name": "Endocrine system",
+        "importance": "1",
+        "originalValue": "Endocrine system"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/13f9a799-4d99-3b8a-9a54-37291840345a",
+        "forenduserdisplay": "true",
+        "name": "Clinical medicine",
+        "importance": "1",
+        "originalValue": "Clinical medicine"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e43f9626-bdb2-31d3-a76f-d4afb43eb275",
+        "forenduserdisplay": "true",
+        "name": "Eli Lilly and Company",
+        "importance": "2",
+        "originalValue": "Eli Lilly and Company"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/122b8323-2f06-3fc4-9b0c-f8da4b17144b",
+        "forenduserdisplay": "true",
+        "name": "Diabetes",
+        "importance": "2",
+        "originalValue": "Diabetes"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3944416b-549d-32b7-92dc-2d80a7ef0382",
+        "forenduserdisplay": "true",
+        "name": "Insulin pump",
+        "importance": "2",
+        "originalValue": "Insulin pump"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/64b31c34-f9f2-30ef-9b09-d143b224e238",
+        "forenduserdisplay": "true",
+        "name": "Peptide hormones",
+        "importance": "2",
+        "originalValue": "Peptide hormones"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e2596efc-ac45-3259-8440-b2e4f99daf6a",
+        "forenduserdisplay": "true",
+        "name": "Recombinant proteins",
+        "importance": "2",
+        "originalValue": "Recombinant proteins"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/693a7709-3450-31dc-b476-d188c1994d57",
+        "forenduserdisplay": "true",
+        "name": "Infusion pump",
+        "importance": "2",
+        "originalValue": "Infusion pump"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/66a9203c-8bd7-330e-bbef-0330212fd299",
+        "forenduserdisplay": "true",
+        "name": "Medical device",
+        "importance": "2",
+        "originalValue": "Medical device"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/7763d136-454c-3e26-8027-cd401324274b",
+        "forenduserdisplay": "true",
+        "name": "Blood sugar level",
+        "importance": "2",
+        "originalValue": "Blood sugar level"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1df6ba3a-1d11-3a48-b356-7c33b77318df",
+        "forenduserdisplay": "true",
+        "name": "Insulin",
+        "importance": "2",
+        "originalValue": "Insulin (medication)"
+    },
+    "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/691b7cf5-6329-33e6-81f6-c74b39a695d6": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Baxter Hillrom",
+        "nationality": "N/A",
+        "confidencelevel": "0.62",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.914",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.62"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Baxter Hillrom[ is recalling the WatchCare IMS after receiving]",
+                "prefix": "\n",
+                "exact": "Baxter Hillrom",
+                "suffix": " is recalling the WatchCare IMS after receiving",
+                "offset": 1,
+                "length": 14
+            },
+            {
+                "detection": "[issue could lead to serious injury or death.\n]Baxter[ reported 96 complaints of interference. To date,]",
+                "prefix": "issue could lead to serious injury or death.\n",
+                "exact": "Baxter",
+                "suffix": " reported 96 complaints of interference. To date,",
+                "offset": 850,
+                "length": 6
+            }
+        ],
+        "relevance": 0.8
+    }
+}

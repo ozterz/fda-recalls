@@ -1,0 +1,202 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/0C1z5A3IYbM-j8R-tw-*kQ",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997",
+            "document": "\nDraeger, Inc is recalling a specific lot (LT2103) of the SafeStar 55 Breathing System Filter because a manual inspection process led to some defective filters, including some that may be partially obstructed, to be inadvertently distributed instead of destroyed.  \nIf the filter on a ventilator or breathing system is obstructed, oxygen may not flow properly to the patient. That lack of oxygen (hypoxia) can have serious effects including death.  \nThere has been one complaint and one injury associated with the use of this device. There have been no reported deaths.  \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:07.530"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:07.394",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|RyuN2SKfeF8g14VFQ+dK4Q5qIj4=|LfZtSfp6JmnK5hf2TXly/a2S+BAEhep+lXYb6dIO2WxitHKm5raU5Q==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40",
+        "forenduserdisplay": "true",
+        "name": "Chemistry",
+        "importance": "1",
+        "originalValue": "Chemistry"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1563dc67-5148-3911-a81d-05553fa900cc",
+        "forenduserdisplay": "true",
+        "name": "Physical sciences",
+        "importance": "1",
+        "originalValue": "Physical sciences"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "1",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a3a48488-2062-362e-87d8-0a40bb00bf42",
+        "forenduserdisplay": "true",
+        "name": "Oxygen",
+        "importance": "2",
+        "originalValue": "Oxygen"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/7d5fb999-44f0-3fee-b735-1a81513e0c68",
+        "forenduserdisplay": "true",
+        "name": "Respiratory therapy",
+        "importance": "2",
+        "originalValue": "Respiratory therapy"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2aa66ee5-ba43-354e-b83f-87c4d3adddc2",
+        "forenduserdisplay": "true",
+        "name": "Diving medicine",
+        "importance": "2",
+        "originalValue": "Diving medicine"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8917ecd8-cca3-3d5e-a249-799c69723e29",
+        "forenduserdisplay": "true",
+        "name": "Respiration",
+        "importance": "2",
+        "originalValue": "Respiration"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70685a88-07f1-357c-af87-34d408b8b562",
+        "forenduserdisplay": "true",
+        "name": "Medical ventilator",
+        "importance": "2",
+        "originalValue": "Medical ventilator"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3572ffe3-feaf-3637-afda-a4b089e7f56c",
+        "forenduserdisplay": "true",
+        "name": "Hypoxia",
+        "importance": "2",
+        "originalValue": "Hypoxia (medical)"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5348f175-bc1c-398d-8291-5fe5e35acb32",
+        "forenduserdisplay": "true",
+        "name": "Oxygen therapy",
+        "importance": "2",
+        "originalValue": "Oxygen therapy"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/249de5a5-3554-3c0f-9347-728dbbeb38c4",
+        "forenduserdisplay": "true",
+        "name": "Filter",
+        "importance": "2",
+        "originalValue": "Filter (signal processing)"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/850ac511-2add-3f48-9a1c-1b5b13e7b9b0",
+        "forenduserdisplay": "true",
+        "name": "Breathing",
+        "importance": "2",
+        "originalValue": "Breathing"
+    },
+    "http://d.opencalais.com/dochash-1/ebefa858-3adc-320a-959a-f9c3fb51c997/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/8845bf9a-bc20-3980-9d2a-dd2c5653f198": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Draeger Inc",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "Draeger, Inc.",
+                "permid": "5026644036",
+                "ispublic": "false",
+                "commonname": "Draeger, Inc.",
+                "score": 0.007057038,
+                "id": "https://permid.org/1-5026644036"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Draeger, Inc[ is recalling a specific lot (LT2103) of the]",
+                "prefix": "\n",
+                "exact": "Draeger, Inc",
+                "suffix": " is recalling a specific lot (LT2103) of the",
+                "offset": 1,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.823",
+            "dblookup": "0.0",
+            "resolution": "0.007057038",
+            "aggregate": "1.0"
+        }
+    }
+}

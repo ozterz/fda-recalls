@@ -1,0 +1,235 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/jyxMjeffUxdzHgPTbOsd6Q",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7",
+            "document": "\nTeleflex and their subsidiary Arrow International, LLC are recalling the Arrow MAC Two-Lumen Central Venous Access Kits; Arrow Pressure Injectable Arrowg+ard Blue Plus Three-Lumen Central Venous Catheter (CVC) Kits for the risk of a cross-lumen leak caused by inadequate connections between the top and bottom housings of the Micro Clave Clear Connectors included in the kits. \nUse of affected devices may cause bleeding, fluid leakage, delayed treatment, infection, air in the blood vessels (air embolism), other serious injuries or death. \nTeleflex/Arrow International LLC has reported no injuries or deaths related to this issue. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:34.276"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:34.106",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|cfMlliDNQtOua9BzZvCXNdRmieo=|H2dmoRjtfpPu26g+MSIiA8wdJJd7CEIHY4O3wz9Vpea8KXPcbJ27sA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/229a733d-ccb9-34d9-974b-02e5fdc3a4b9",
+        "forenduserdisplay": "true",
+        "name": "Catheters",
+        "importance": "1",
+        "originalValue": "Catheters"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/cb900578-adc5-3af1-86cb-6c471667b8de",
+        "forenduserdisplay": "true",
+        "name": "Central venous catheter",
+        "importance": "1",
+        "originalValue": "Central venous catheter"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a1bc9035-b445-3646-a31c-8b3904d15d0f",
+        "forenduserdisplay": "true",
+        "name": "Peripheral venous catheter",
+        "importance": "1",
+        "originalValue": "Peripheral venous catheter"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f093a63d-31ba-3598-8f53-a711130caf47",
+        "forenduserdisplay": "true",
+        "name": "Venous access",
+        "importance": "2",
+        "originalValue": "Venous access"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/75a9d0f7-6c98-3f7c-af65-18615eb6ed93",
+        "forenduserdisplay": "true",
+        "name": "Teleflex",
+        "importance": "2",
+        "originalValue": "Teleflex"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/de2bd565-f390-30e0-a22e-05f38d7ed967",
+        "forenduserdisplay": "true",
+        "name": "CVC",
+        "importance": "2",
+        "originalValue": "CVC"
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Pharmaceuticals (NEC)",
+        "rcscode": "B:1729",
+        "permid": "4294951272",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/291b2164-6b6f-34c5-ac26-2e465858ca15": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Teleflex",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Teleflex[ and their subsidiary Arrow International, LLC]",
+                "prefix": "\n",
+                "exact": "Teleflex",
+                "suffix": " and their subsidiary Arrow International, LLC",
+                "offset": 1,
+                "length": 8
+            },
+            {
+                "detection": "[embolism), other serious injuries or death. \n]Teleflex[/Arrow International LLC has reported no injuries]",
+                "prefix": "embolism), other serious injuries or death. \n",
+                "exact": "Teleflex",
+                "suffix": "/Arrow International LLC has reported no injuries",
+                "offset": 543,
+                "length": 8
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.922",
+            "dblookup": "0.0",
+            "resolution": "0.97653085",
+            "aggregate": "1.0"
+        },
+        "resolutions": [
+            {
+                "name": "TELEFLEX INCORPORATED",
+                "permid": "4295905048",
+                "primaryric": "TFX.N",
+                "ispublic": "true",
+                "commonname": "Teleflex",
+                "score": 0.97653085,
+                "id": "https://permid.org/1-4295905048",
+                "ticker": "TFX"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/a344d6a6-cadd-3de6-8cbc-85fe7e3e175b": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Arrow International LLC",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[and their subsidiary ]Arrow International, LLC[ are recalling the Arrow MAC Two-Lumen Central]",
+                "prefix": "and their subsidiary ",
+                "exact": "Arrow International, LLC",
+                "suffix": " are recalling the Arrow MAC Two-Lumen Central",
+                "offset": 31,
+                "length": 24
+            },
+            {
+                "detection": "[Arrow MAC Two-Lumen Central Venous Access Kits; ]Arrow[ Pressure Injectable Arrowg+ard Blue Plus]",
+                "prefix": "Arrow MAC Two-Lumen Central Venous Access Kits; ",
+                "exact": "Arrow",
+                "suffix": " Pressure Injectable Arrowg+ard Blue Plus",
+                "offset": 122,
+                "length": 5
+            },
+            {
+                "detection": "[other serious injuries or death. \nTeleflex/]Arrow International LLC[ has reported no injuries or deaths related to]",
+                "prefix": "other serious injuries or death. \nTeleflex/",
+                "exact": "Arrow International LLC",
+                "suffix": " has reported no injuries or deaths related to",
+                "offset": 552,
+                "length": 23
+            },
+            {
+                "detection": "[Arrow International, LLC are recalling the ]Arrow[ MAC Two-Lumen Central Venous Access Kits; Arrow]",
+                "prefix": "Arrow International, LLC are recalling the ",
+                "exact": "Arrow",
+                "suffix": " MAC Two-Lumen Central Venous Access Kits; Arrow",
+                "offset": 74,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "ARROW INTERNATIONAL LLC",
+                "permid": "5079693426",
+                "ispublic": "false",
+                "commonname": "Arrow Intl",
+                "score": 0.03010461,
+                "id": "https://permid.org/1-5079693426"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.992",
+            "dblookup": "0.0",
+            "resolution": "0.03010461",
+            "aggregate": "1.0"
+        }
+    }
+}

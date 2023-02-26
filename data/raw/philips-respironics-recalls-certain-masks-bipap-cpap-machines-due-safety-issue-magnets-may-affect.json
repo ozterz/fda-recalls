@@ -1,0 +1,292 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/Cg1kp8PCXjWFnYyUnuynIg",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea",
+            "document": "\nPhilips Respironics (Philips) is recalling certain Amara Full Face, DreamWisp Nasal, DreamWear Full Face, Wisp and Wisp Youth Nasal, and Therapy Mask 3100 masks due to a serious safety concern. The recalled masks have magnetic headgear clips to hold them in place. The magnets can potentially cause injury or death if people who use them, or people near a person using a recalled mask, have certain implanted metallic medical devices or metallic objects in the body. \nThe FDA issued a safety communication, Certain Philips Respironics Masks for BiPAP, CPAP Machines Recalled Due to Safety Issue with Magnets That May Affect Certain Medical Devices about this topic which includes more information on the types of medical devices and objects that may be affected. \nAs of September 9, 2022, there have been 43 complaints, 14 of those were serious injuries, associated with this issue. The FDA is not aware of any associated deaths. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:54.505"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:54.292",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|Y+j7AfpLQ9s4SuP3KuPqIL1v/B0=|YUNrwhHi0aLZnMTaxgNfPjHeIEhFn5p9l5hN+P0ivwNDi8qrD2pS+Q==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e9b28f14-0020-3e77-9fa3-070386287d4f",
+        "forenduserdisplay": "true",
+        "name": "Mechanical ventilation",
+        "importance": "1",
+        "originalValue": "Mechanical ventilation"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1121a637-b047-3c97-9e85-c2ff1fab3737",
+        "forenduserdisplay": "true",
+        "name": "Electromagnetism",
+        "importance": "1",
+        "originalValue": "Electromagnetism"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0c1596ee-afd5-335e-bbcf-df0dbde6a847",
+        "forenduserdisplay": "true",
+        "name": "Medical equipment",
+        "importance": "1",
+        "originalValue": "Medical equipment"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "2",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "2",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/fdd52564-4633-3bb5-b393-cdbeea83a349",
+        "forenduserdisplay": "true",
+        "name": "Respironics",
+        "importance": "2",
+        "originalValue": "Respironics"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8aff4d68-3940-32ba-991d-c1511a4d2362",
+        "forenduserdisplay": "true",
+        "name": "Non-invasive ventilation",
+        "importance": "2",
+        "originalValue": "Non-invasive ventilation"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/fdce2924-c746-3a81-892e-a7b80fb5ca1d",
+        "forenduserdisplay": "true",
+        "name": "Continuous positive airway pressure",
+        "importance": "2",
+        "originalValue": "Continuous positive airway pressure"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0493a187-0c35-3aa5-9a74-d81241e18b09",
+        "forenduserdisplay": "true",
+        "name": "Mask",
+        "importance": "2",
+        "originalValue": "Mask"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/66a9203c-8bd7-330e-bbef-0330212fd299",
+        "forenduserdisplay": "true",
+        "name": "Medical device",
+        "importance": "2",
+        "originalValue": "Medical device"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d5be12bd-ac54-34cc-9af9-cbc4f6347356",
+        "forenduserdisplay": "true",
+        "name": "Food and Drug Administration",
+        "importance": "2",
+        "originalValue": "Food and Drug Administration"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9cdb98ec-0e6a-331a-ab2a-4d52b7da048e",
+        "forenduserdisplay": "true",
+        "name": "Philips",
+        "importance": "2",
+        "originalValue": "Philips"
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Advanced Medical Equipment & Technology (NEC)",
+        "rcscode": "B:1700",
+        "permid": "4294951301",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/b8fb1d21-29ec-325c-834e-3e3ddcbaffea/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/ba82d93d-4755-34dc-991b-4e862f72c208": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "CPAP Machines",
+        "nationality": "N/A",
+        "confidencelevel": "0.389",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[Certain Philips Respironics Masks for BiPAP, ]CPAP Machines[ Recalled Due to Safety Issue with Magnets That]",
+                "prefix": "Certain Philips Respironics Masks for BiPAP, ",
+                "exact": "CPAP Machines",
+                "suffix": " Recalled Due to Safety Issue with Magnets That",
+                "offset": 553,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.668",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.389"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/1512e99d-2e6c-3131-8a7c-b7520bec0007": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Philips Respironics",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Philips Respironics[ (Philips) is recalling certain Amara Full Face,]",
+                "prefix": "\n",
+                "exact": "Philips Respironics",
+                "suffix": " (Philips) is recalling certain Amara Full Face,",
+                "offset": 1,
+                "length": 19
+            },
+            {
+                "detection": "[\nThe FDA issued a safety communication, Certain ]Philips Respironics[ Masks for BiPAP, CPAP Machines Recalled Due to]",
+                "prefix": "\nThe FDA issued a safety communication, Certain ",
+                "exact": "Philips Respironics",
+                "suffix": " Masks for BiPAP, CPAP Machines Recalled Due to",
+                "offset": 516,
+                "length": 19
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.971",
+            "dblookup": "0.0",
+            "resolution": "0.041303355",
+            "aggregate": "1.0"
+        },
+        "resolutions": [
+            {
+                "name": "Koninklijke Philips N.V.",
+                "permid": "4295884721",
+                "primaryric": "PHG.AS",
+                "ispublic": "true",
+                "commonname": "Philips",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-4295884721",
+                "ticker": "PHIA"
+            },
+            {
+                "name": "Philips Respironics GK",
+                "permid": "5000658033",
+                "ispublic": "false",
+                "commonname": "Philips RESP",
+                "score": 0.041303355,
+                "id": "https://permid.org/1-5000658033"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/9849f799-9945-366c-a85a-c6fd4c8d8b90": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Philips",
+        "confidencelevel": "0.634",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "Koninklijke Philips N.V.",
+                "permid": "4295884721",
+                "primaryric": "PHG.AS",
+                "ispublic": "true",
+                "commonname": "Philips",
+                "score": 1,
+                "id": "https://permid.org/1-4295884721",
+                "ticker": "PHIA"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.634"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\nPhilips Respironics (]Philips[) is recalling certain Amara Full Face, DreamWisp]",
+                "prefix": "\nPhilips Respironics (",
+                "exact": "Philips",
+                "suffix": ") is recalling certain Amara Full Face, DreamWisp",
+                "offset": 22,
+                "length": 7
+            }
+        ],
+        "relevance": 0.8
+    }
+}

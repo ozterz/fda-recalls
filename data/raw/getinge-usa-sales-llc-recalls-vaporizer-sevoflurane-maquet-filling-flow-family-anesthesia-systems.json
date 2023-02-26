@@ -1,0 +1,230 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/ju*H-kKiN3ZXPdrU6kicXg",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9",
+            "document": "\nGetinge is recalling the Vaporizer Sevoflurane Maquet filling due to the potential chemical breakdown of Sevoflurane, a general surgical anesthetic, that may result in inhalation and/or skin exposure to harmful chemicals. If this occurs, this may cause serious patient harms including irritation of the respiratory tract, lung edema (swelling caused by excess fluid), and severe hypocalcemia (condition in which the blood has too little calcium).\nThere have been eight complaints regarding this device issue. There have been no reported deaths or injuries.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:49.461"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:49.313",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|wFS7M0dSzeElllzquIrYp2JgCbs=|B4YVHXgKLj/uyQ+PhuEULFkWsbVBFsoxy1fb8J6TtMZHNKBGlfhkZg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40",
+        "forenduserdisplay": "true",
+        "name": "Chemistry",
+        "importance": "1",
+        "originalValue": "Chemistry"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1563dc67-5148-3911-a81d-05553fa900cc",
+        "forenduserdisplay": "true",
+        "name": "Physical sciences",
+        "importance": "1",
+        "originalValue": "Physical sciences"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/15b6db6a-88c0-3ec1-922c-87a1cfe8bfca",
+        "forenduserdisplay": "true",
+        "name": "Natural sciences",
+        "importance": "1",
+        "originalValue": "Natural sciences"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/c4aad8ef-9a0e-33e0-b26f-8ae3c6e0c376",
+        "forenduserdisplay": "true",
+        "name": "Maquet",
+        "importance": "2",
+        "originalValue": "Maquet"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/240842c1-72e2-3e24-8694-68c7a889c0aa",
+        "forenduserdisplay": "true",
+        "name": "Respiratory tract",
+        "importance": "2",
+        "originalValue": "Respiratory tract"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3b0abc9a-b80d-3336-85c6-49d2e478f7ce",
+        "forenduserdisplay": "true",
+        "name": "Vaporizer",
+        "importance": "2",
+        "originalValue": "Vaporizer"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/487574bf-5432-397a-85f4-670d251295ae",
+        "forenduserdisplay": "true",
+        "name": "Pulmonary edema",
+        "importance": "2",
+        "originalValue": "Pulmonary edema"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b8293931-88b9-3f1e-ae07-42316b06c0b3",
+        "forenduserdisplay": "true",
+        "name": "Anesthetic",
+        "importance": "2",
+        "originalValue": "Anesthetic"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/6ba89c79-9489-394d-82f3-c7c50f411da1",
+        "forenduserdisplay": "true",
+        "name": "Fluorine",
+        "importance": "2",
+        "originalValue": "Fluorine"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/08701802-d68a-388f-9828-c3463e84a684",
+        "forenduserdisplay": "true",
+        "name": "Edema",
+        "importance": "2",
+        "originalValue": "Edema"
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment",
+        "rcscode": "B:1710",
+        "permid": "4294951291",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/43e5c663-fec7-362b-b6fc-a22ece5db9c9/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/78fd3096-e701-3748-b413-1f518d04e978": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Getinge",
+        "nationality": "N/A",
+        "confidencelevel": "0.407",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Getinge[ is recalling the Vaporizer Sevoflurane Maquet]",
+                "prefix": "\n",
+                "exact": "Getinge",
+                "suffix": " is recalling the Vaporizer Sevoflurane Maquet",
+                "offset": 1,
+                "length": 7
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.71",
+            "dblookup": "0.0",
+            "resolution": "0.11596602",
+            "aggregate": "0.407"
+        },
+        "resolutions": [
+            {
+                "name": "Getinge AB",
+                "permid": "4295889996",
+                "primaryric": "GETIb.ST",
+                "ispublic": "true",
+                "commonname": "Getinge",
+                "score": 0.11596602,
+                "id": "https://permid.org/1-4295889996",
+                "ticker": "GETI B"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/9f9d397f-61fb-3ac1-83f0-27cd34617192": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "maquet",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "Maquet SA",
+                "permid": "5037125252",
+                "ispublic": "false",
+                "commonname": "Maquet",
+                "score": 0.012688487,
+                "id": "https://permid.org/1-5037125252"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[is recalling the Vaporizer Sevoflurane ]Maquet[ filling due to the potential chemical breakdown]",
+                "prefix": "is recalling the Vaporizer Sevoflurane ",
+                "exact": "Maquet",
+                "suffix": " filling due to the potential chemical breakdown",
+                "offset": 48,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "0.012688487",
+            "aggregate": "1.0"
+        }
+    }
+}

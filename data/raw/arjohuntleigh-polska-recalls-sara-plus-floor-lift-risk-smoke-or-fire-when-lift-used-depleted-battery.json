@@ -1,0 +1,157 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/38HFmnKeHYgCSylOg8rdjw",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015",
+            "document": "\nArjoHuntleigh Polska is recalling the Sara Plus floor lift following several complaints of smoke and/or flames coming out of the lift. When the battery is low, the device’s printed circuit board may overheat, leading to smoke or fire. If this situation occurs, anyone using the lift or near it could be injured, including smoke inhalation and/or burns. \nThere have been 44 complaints about this issue. No injuries or deaths have been associated with the use of this device.\n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:32.627"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:32.438",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|436Af0r4tsccdeIT7WI1VxuGnYw=|gknldzhJ6yc5Ema4S/pAO445OHpY5JPHEyMR2WsdGY+3NeG0tX/BoQ==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/df4fe211-341a-3c70-96a6-99f1f2961af5",
+        "forenduserdisplay": "true",
+        "name": "Smoke",
+        "importance": "1",
+        "originalValue": "Smoke"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/eb13e8ec-629e-3e1b-9b55-b52a85d35c21",
+        "forenduserdisplay": "true",
+        "name": "ArjoHuntleigh",
+        "importance": "1",
+        "originalValue": "ArjoHuntleigh"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/383d3ed6-7245-37e3-81de-43d6b459d4b1",
+        "forenduserdisplay": "true",
+        "name": "Lift",
+        "importance": "1",
+        "originalValue": "Lift (soft drink)"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "2",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "2",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/55179fd6-e627-3d54-b882-9d9feea09015/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260234:202302260234",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/31fbeaab-4272-39a5-a235-7b480019b2a6": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "ArjoHuntleigh",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "resolutions": [
+            {
+                "name": "Arjo AB (publ)",
+                "permid": "5057956676",
+                "primaryric": "ARJOb.ST",
+                "ispublic": "true",
+                "commonname": "Arjo",
+                "topmostPublicParent": true,
+                "id": "https://permid.org/1-5057956676",
+                "ticker": "ARJO B"
+            },
+            {
+                "name": "ArjoHuntleigh AB",
+                "permid": "4295890302",
+                "ispublic": "false",
+                "commonname": "Arjohuntleigh",
+                "score": 0.10464087,
+                "id": "https://permid.org/1-4295890302",
+                "ticker": "ARJOY"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "0.10464087",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]ArjoHuntleigh[ Polska is recalling the Sara Plus floor lift]",
+                "prefix": "\n",
+                "exact": "ArjoHuntleigh",
+                "suffix": " Polska is recalling the Sara Plus floor lift",
+                "offset": 1,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/NFHo0s4P6a0siTlKx9acDg",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c",
+            "document": "\nBASE10 Genetics is recalling the RNAstill MTM specimen collection kits because they were distributed without proper premarket clearance from the FDA—meaning there is not adequate data available about this product to know how well it inactivates and stabilizes a virus for transport and storage. \nIf the specimen collected is not properly inactivated and stabilized by the transport medium, there are two concerns:  \nIf the sample deteriorates, it could lead to false negative test results\nIf the virus isn’t inactivated prior to testing, it is possible that the virus could spread to people in the lab.\nThese products were distributed to nursing homes, assisted living facilities, and memory facilities whose residents are at high risk of severe illness and death from COVID-19. A false negative test result could lead to a patient not receiving the care they need. \nAdditionally, the transport medium of this specimen collection kit contains a hazardous chemical that requires special training for safe handling. It is not certain that staff at long term care facilities where the product was distributed are trained to safely handle this hazardous chemical.  \nAs a result of all these issues, use of the affected product could cause serious adverse health consequences and death. \nThere have been no reports of injuries, adverse health consequences or death associated with the use of this product. \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:42.704"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:42.480",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|n3J2b50L2C4HpbYDDnPUjh9dy0I=|O4Aywn6uSFOy/eRU/jTf+jHWuY5jjf6E/FenmHffCmYJMzyW+RfPuw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/dfe72f9f-0fa6-31a3-9106-2cff2b71077a",
+        "forenduserdisplay": "true",
+        "name": "Chemical safety",
+        "importance": "1",
+        "originalValue": "Chemical safety"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4495f25e-2ce8-3fbd-b4dc-57a4d79682fa",
+        "forenduserdisplay": "true",
+        "name": "Prevention",
+        "importance": "1",
+        "originalValue": "Prevention"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d1fb057a-16a8-3445-b434-00d104844c1f",
+        "forenduserdisplay": "true",
+        "name": "Virus",
+        "importance": "1",
+        "originalValue": "Virus"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35e635c4-393a-3eeb-89c8-86248246c25f",
+        "forenduserdisplay": "true",
+        "name": "Computer virus",
+        "importance": "2",
+        "originalValue": "Computer virus"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5ebaaa29-5060-373a-96eb-a9b855a4e3fa",
+        "forenduserdisplay": "true",
+        "name": "Dangerous goods",
+        "importance": "2",
+        "originalValue": "Dangerous goods"
+    },
+    "http://d.opencalais.com/dochash-1/dae1c54b-ae26-39a9-ac8a-0b02e608715c/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/8f0947bf-8205-3413-8734-e629faf8b44b": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "BASE10 Genetics",
+        "nationality": "N/A",
+        "confidencelevel": "0.552",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]BASE10 Genetics[ is recalling the RNAstill MTM specimen]",
+                "prefix": "\n",
+                "exact": "BASE10 Genetics",
+                "suffix": " is recalling the RNAstill MTM specimen",
+                "offset": 1,
+                "length": 15
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "BASE10 GENETICS, INC.",
+                "permid": "5076693037",
+                "ispublic": "false",
+                "commonname": "BASE10 Genetics",
+                "score": 0.0056589902,
+                "id": "https://permid.org/1-5076693037"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.668",
+            "dblookup": "0.0",
+            "resolution": "0.0056589902",
+            "aggregate": "0.552"
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/xsNGJorLC17rVqPRVKJWuw",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058",
+            "document": "\nBaxter Healthcare is recalling SIGMA Spectrum Infusion Pumps with Master Drug Library (Version 8) and Spectrum IQ Infusion Systems with Dose IQ Safety Software (Version 9) due to the risk of not alarming for repeated upstream occlusion events. After an upstream occlusion alarm, failure to fully resolve any upstream occlusion before restarting the infusion can cause the pump to not re-alarm as expected. The pump adjusts occlusion detection after the user acknowledges an upstream occlusion alarm; for the remainder of that infusion, the upstream occlusion alarm will not alarm per its baseline settings. If an occlusion is not fully resolved before restarting the infusion, the pump may not re-alarm as expected and may appear to be infusing normally, though may be infusing below the programmed rate or not infusing at all. Patient harm may occur from interruption in therapy (due to full occlusion) and/or underinfusion (due to partial occlusion).\nUse of the affected products may cause serious adverse events, including death. \nBaxter has received 51 reports of serious injuries and three reports of patient deaths over five years, potentially associated with this issue.  \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:02:30.737"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:02:30.543",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|NP7KDn1bVu9iEB/yprnmVp4wwds=|jaDzMbftbU3yhdYyUtxw8N0N8NxVId3+LLoLC+ZqhtJProTt7MBaYg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d4dd8750-436c-3794-981f-cabfd65fde73",
+        "forenduserdisplay": "true",
+        "name": "Teeth",
+        "importance": "1",
+        "originalValue": "Teeth"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a49a7da4-1e48-31cb-b694-abb31c025533",
+        "forenduserdisplay": "true",
+        "name": "Dentistry",
+        "importance": "1",
+        "originalValue": "Dentistry"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/693a7709-3450-31dc-b476-d188c1994d57",
+        "forenduserdisplay": "true",
+        "name": "Infusion pump",
+        "importance": "2",
+        "originalValue": "Infusion pump"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/c432173a-3db6-3267-9e7f-0f61d492f218",
+        "forenduserdisplay": "true",
+        "name": "Occlusion",
+        "importance": "2",
+        "originalValue": "Occlusion (dentistry)"
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Medical Equipment, Supplies & Distribution (NEC)",
+        "rcscode": "B:1707",
+        "permid": "4294951294",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/981282e5-08ec-3870-86bd-0dfc2576b058/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/7dc395e6-96f0-3773-b8fa-4f9167b2db22": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Spectrum IQ Infusion Systems",
+        "nationality": "N/A",
+        "confidencelevel": "0.773",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[Pumps with Master Drug Library (Version 8) and ]Spectrum IQ Infusion Systems[ with Dose IQ Safety Software (Version 9) due to]",
+                "prefix": "Pumps with Master Drug Library (Version 8) and ",
+                "exact": "Spectrum IQ Infusion Systems",
+                "suffix": " with Dose IQ Safety Software (Version 9) due to",
+                "offset": 103,
+                "length": 28
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.917",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.773"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/00203ec7-8dd7-3a95-9988-825966d05dee": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Dose IQ Safety Software",
+        "nationality": "N/A",
+        "confidencelevel": "0.773",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[8) and Spectrum IQ Infusion Systems with ]Dose IQ Safety Software[ (Version 9) due to the risk of not alarming for]",
+                "prefix": "8) and Spectrum IQ Infusion Systems with ",
+                "exact": "Dose IQ Safety Software",
+                "suffix": " (Version 9) due to the risk of not alarming for",
+                "offset": 137,
+                "length": 23
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.917",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.773"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/fd357cb6-7c3e-3a76-a975-7b68946c3a50": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "BAXTER HEALTHCARE",
+        "confidencelevel": "1.0",
+        "recognizedas": "name",
+        "confidence": {
+            "statisticalfeature": "0.93",
+            "dblookup": "0.0",
+            "resolution": "0.7997592",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]Baxter Healthcare[ is recalling SIGMA Spectrum Infusion Pumps with]",
+                "prefix": "\n",
+                "exact": "Baxter Healthcare",
+                "suffix": " is recalling SIGMA Spectrum Infusion Pumps with",
+                "offset": 1,
+                "length": 17
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "BAXTER INTERNATIONAL INC.",
+                "permid": "4295903531",
+                "primaryric": "BAX.N",
+                "ispublic": "true",
+                "commonname": "Baxter Intl",
+                "score": 0.7997592,
+                "id": "https://permid.org/1-4295903531",
+                "ticker": "BAX"
+            }
+        ]
+    }
+}

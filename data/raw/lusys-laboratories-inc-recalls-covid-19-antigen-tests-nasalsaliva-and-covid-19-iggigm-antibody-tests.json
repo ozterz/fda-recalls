@@ -1,0 +1,200 @@
+{
+    "doc": {
+        "info": {
+            "id": "http://id.opencalais.com/aY2NVF1LtBRQl4wrfppVow",
+            "ontology": "http://trit-us-east-1-sharedamd.int.refinitiv.com/owlschema/0.5.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324",
+            "document": "\nLuSys Laboratories is recalling these tests because they do not have an Emergency Use Authorization, 510(k), or PMA and therefore cannot be legally marketed and distributed in the United States. In addition, LuSys Laboratories did not provide appropriate validation data to show that the tests can perform accurately.  This means there is a risk of potential false negative, false positive, and misinterpretation of results from these tests.\nLuSys Laboratories has received no complaints or reports of injuries, deaths, or adverse events.   \n",
+            "docTitle": "",
+            "docDate": "2023-02-26 04:03:39.161"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "selectiveTags": "company,industry,socialtags",
+            "serverVersion": "N/A",
+            "stagsVer": "defaultVersion",
+            "submissionDate": "2023-02-26 04:03:38.994",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|9jH+1nQKW8SSNfilT+/FBogEYgE=|JpqvWWS9Tkh50m58312NsypAojFOwtzkLhrf9JtFbts1w1pDIoDlfA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec",
+        "forenduserdisplay": "true",
+        "name": "Health",
+        "importance": "1",
+        "originalValue": "Health"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9eec1556-ecfc-3a03-ab69-ad8d66157790",
+        "forenduserdisplay": "true",
+        "name": "Pharmaceutical industry",
+        "importance": "1",
+        "originalValue": "Pharmaceutical industry"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/37d12d43-b641-3e05-bda8-0ffb0065cd21",
+        "forenduserdisplay": "true",
+        "name": "Medical tests",
+        "importance": "1",
+        "originalValue": "Medical tests"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8efb66ee-34f3-32f8-a5fb-312b404a58a0",
+        "forenduserdisplay": "true",
+        "name": "Clinical research",
+        "importance": "2",
+        "originalValue": "Clinical research"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/371d7d57-8479-3049-85be-ef3e69d55bfc",
+        "forenduserdisplay": "true",
+        "name": "Articles",
+        "importance": "2",
+        "originalValue": "Articles"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f0e77506-a25b-3275-b0fa-418d62cdb694",
+        "forenduserdisplay": "true",
+        "name": "False positives and false negatives",
+        "importance": "2",
+        "originalValue": "False positives and false negatives"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ece49094-2fc7-32ed-971f-073676dc0329",
+        "forenduserdisplay": "true",
+        "name": "Medical error",
+        "importance": "2",
+        "originalValue": "Medical error"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1deb9b41-4fd5-3488-9168-7178122cd18d",
+        "forenduserdisplay": "true",
+        "name": "Statistical classification",
+        "importance": "2",
+        "originalValue": "Statistical classification"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/cfe01daa-633b-3cf5-8fd1-d63da7f1fb64",
+        "forenduserdisplay": "true",
+        "name": "Validation",
+        "importance": "2",
+        "originalValue": "Validation (drug manufacture)"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f",
+        "forenduserdisplay": "true",
+        "name": "Medicine",
+        "importance": "2",
+        "originalValue": "Medicine"
+    },
+    "http://d.opencalais.com/dochash-1/8d602343-bf7f-30f5-b7d9-10645cb79324/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:202302260339:202302260339",
+            "index-refineries:202107102126:202107102126",
+            "config-physicalAssets-powerStations:1227:1227",
+            "NextTags:2.5.181-legacy-trit-release-master:181",
+            "config-sca-DataPackage:50:50",
+            "config-companyNe:90399:90399",
+            "People Index:202302260231:202302260231",
+            "config-negativeSignature:994:994",
+            "Dial4J:OneCalais_12.1-RELEASE:90",
+            "OA Override:90396:90396",
+            "People Override:994:994",
+            "index-sluglines:202010230725:202010230725",
+            "index-company-oa3:202209072147:202209072147",
+            "index-vessels:202206111824:202206111824",
+            "config-forEndUserDisplay:4:4",
+            "config-refineries:994:994",
+            "config-cse:994:994",
+            "config-vessels:994:994",
+            "config-physicalAssets-mines:1227:1227",
+            "BlackList:994:994",
+            "index-ports:202302211251:202302211251",
+            "config-physicalAssets-ports:994:994",
+            "config-drugs:994:994"
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/a9ce358f-1a6a-3336-9979-a049ce3144b7": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "LuSys Laboratories",
+        "nationality": "N/A",
+        "confidencelevel": "0.743",
+        "recognizedas": "name",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n]LuSys Laboratories[ is recalling these tests because they do not]",
+                "prefix": "\n",
+                "exact": "LuSys Laboratories",
+                "suffix": " is recalling these tests because they do not",
+                "offset": 1,
+                "length": 18
+            },
+            {
+                "detection": "[distributed in the United States. In addition, ]LuSys Laboratories[ did not provide appropriate validation data to]",
+                "prefix": "distributed in the United States. In addition, ",
+                "exact": "LuSys Laboratories",
+                "suffix": " did not provide appropriate validation data to",
+                "offset": 209,
+                "length": 18
+            },
+            {
+                "detection": "[misinterpretation of results from these tests.\n]LuSys Laboratories[ has received no complaints or reports of]",
+                "prefix": "misinterpretation of results from these tests.\n",
+                "exact": "LuSys Laboratories",
+                "suffix": " has received no complaints or reports of",
+                "offset": 443,
+                "length": 18
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.853",
+            "dblookup": "0.0",
+            "resolution": "0.0054970696",
+            "aggregate": "0.743"
+        },
+        "resolutions": [
+            {
+                "name": "LuSys Laboratories Inc",
+                "permid": "5035557467",
+                "ispublic": "false",
+                "commonname": "LuSys",
+                "score": 0.0054970696,
+                "id": "https://permid.org/1-5035557467"
+            }
+        ]
+    }
+}
