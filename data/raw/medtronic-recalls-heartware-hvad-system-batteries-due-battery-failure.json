@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/d36bea53-a68c-3b6b-8569-7ffb95003af2",
             "document": "\nMedtronic, Inc. is recalling a single lot of HeartWare HVAD System batteries due to welding defects that allow separation of the two cell battery packs used to power the system. The welding defect may cause the battery to malfunction and no longer provide power or prevent the battery from holding a full charge or properly recharging. As a result, the battery may fail suddenly.\nIf this malfunction occurs, it will trigger a Power Disconnect alarm on the controller screen and in the Alarm Log tab of the HVAD Monitor while the affected battery is still connected to the controller. These alarms may temporarily resolve, but the battery will continue to fail.\nThe use of these batteries may lead to device malfunction, death, or serious injury.\nMedtronic reports one death associated with this recall, and two complaints in the affected lot.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:09.219"
+            "docDate": "2023-02-27 05:11:27.658"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:08.978",
+            "submissionDate": "2023-02-27 05:11:27.491",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|ipsujkNZx160Yd4HyngxTQgRVHM=|e/jNFrR/q0Fomqos6iZFrq3e2x9XuOItszJAZwuOU1hahohu+6xTqA==",
+            "signature": "digestalg-1|RHMam866D8/y0FKotJCtKfapQJ4=|iJ/b/YZj9XszmTJ4bpTUSfLlB+McIPjjFaefK7QXwYETRZlqLZBVoA==",
             "language": "English"
         }
     },
@@ -135,19 +135,19 @@
     "http://d.opencalais.com/dochash-1/d36bea53-a68c-3b6b-8569-7ffb95003af2/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
             "People Override:994:994",
             "index-sluglines:202010230725:202010230725",
-            "index-company-oa3:202209072147:202209072147",
+            "index-company-oa3:201909010129:201909010129",
             "index-vessels:202206111824:202206111824",
             "config-forEndUserDisplay:4:4",
             "config-refineries:994:994",
@@ -155,7 +155,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

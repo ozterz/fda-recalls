@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a",
             "document": "\nBecton Dickinson is recalling the BD Intraosseous Needle Set Kits, BD Intraosseous Manual Driver Kits, and BD Intraosseous Powered Drivers for three separate issues:\nThe stylet may be difficult to separate from the needle or may not separate at all. This may result in inadvertent removal of the entire needle assembly during placement, or the clinician may be unable to remove the stylet from the needle, both resulting in functional loss of intraosseous access.\nThe needle safety mechanism may not properly deploy as the stylet is removed from the intraosseous needle after placement.\nMetal discs may stick in the powered driver, which may render it unusable.\nThese issues can cause delays in care due to the inability to place functional intraosseous access. Since intraosseous access is most often used in critically ill patients, including those with cardiopulmonary arrest or severe shock, the potential delays in care can cause serious injury or death. There is also the risk of needle stick injury.\nThere have been 37 complaints with no serious injuries or deaths reported associated with these recall issues.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:55.795"
+            "docDate": "2023-02-27 05:12:17.843"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:55.636",
+            "submissionDate": "2023-02-27 05:12:17.624",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|ppLcnNt2D/fma2CQi0b3k5rkwhs=|lKvbt+qjoygpzIBz4p8ZCzcas3NapHtGbbQw4q08KbooAIWlaJ9CEA==",
+            "signature": "digestalg-1|wHL3+3ZjdkwEIO19fMaBOKbay0M=|M7dp19JwXXCic1i3o9YMpXXE/bcshDhsLtJfphI76D6GrtOXZ6zTRw==",
             "language": "English"
         }
     },
@@ -118,19 +118,19 @@
     "http://d.opencalais.com/dochash-1/584c6669-ebdd-373f-ad32-b4a7819ed83a/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
             "People Override:994:994",
             "index-sluglines:202010230725:202010230725",
-            "index-company-oa3:202209072147:202209072147",
+            "index-company-oa3:201909010129:201909010129",
             "index-vessels:202206111824:202206111824",
             "config-forEndUserDisplay:4:4",
             "config-refineries:994:994",
@@ -138,7 +138,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

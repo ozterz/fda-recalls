@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0",
             "document": "\nGE Healthcare is recalling CARESCAPE R860 ventilator backup batteries, including replacement backup batteries, manufactured on or after April 1, 2019, because the batteries may run out before they are expected to do so. If the ventilator is running on battery power only when the battery fails, ventilation could stop completely, preventing the patient from receiving oxygen and breathing support. \nLack of oxygen (hypoxia), especially if it occurs over a long period, can cause serious injury and death.  \nThere have been 1,553 complaints, no injuries, and no deaths associated with the use of this device.  \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:02.787"
+            "docDate": "2023-02-27 05:11:20.113"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:02.652",
+            "submissionDate": "2023-02-27 05:11:19.981",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|KCW31s7DllhE8N/dSZSef+L/rmE=|CBjt/Ec2y05mCUyLSrADHD5adG0OUQ9HcsEvfe1WR4MX4kPFbr/eeA==",
+            "signature": "digestalg-1|HP6YtgT6scV2+rFhomQJ4dAm2aU=|epiqGwc/nac3VxF5Hkf/lFSsB8tYUB1fATiIOrQvQT2gbxKxhcL6MA==",
             "language": "English"
         }
     },
@@ -136,13 +136,13 @@
     "http://d.opencalais.com/dochash-1/1de1210a-259d-36c7-8c68-554bfdcb57c0/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -156,7 +156,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

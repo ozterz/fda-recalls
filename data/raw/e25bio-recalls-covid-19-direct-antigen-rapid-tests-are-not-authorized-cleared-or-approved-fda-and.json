@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/11acd873-f26b-32d3-8c3b-6de9e8734bcb",
             "document": "\nE25Bio is recalling its COVID-19 Direct Antigen Response Tests (DART) for several reasons, particularly that these tests were marketed and distributed to U.S. customers without authorization, clearance, or approval from the FDA. Labeling distributed with some of the tests also includes inaccurate claims and instructions, including a statement that misrepresents the test as FDA-authorized.\nAs this test was not authorized, cleared, or approved by the FDA, there is not sufficient data demonstrating that the test’s performance is accurate. This means there is a risk of both false-negative and false-positive test results. False negative results are when the test does not detect the SARS-CoV-2 virus but the person is actually infected. False-positive results occur when the test says the person has SARS-CoV-2 virus present but they are actually not infected.\nThere is also a risk of injury if users follow any labeling instructions directing self-collection of nasopharyngeal or oropharyngeal samples. Only trained health care providers should collect these types of swab samples to prevent serious injury.\nUse of the affected product could cause serious adverse health consequences and death. On February 4, 2022, the FDA issued a Safety Communication warning users to stop using these tests.\nThere have been no reports of injuries, adverse health consequences or death associated with the use of this product.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:27.330"
+            "docDate": "2023-02-27 05:10:42.316"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:27.130",
+            "submissionDate": "2023-02-27 05:10:42.100",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|CxwGNPMqvJdIA4WyUdVzvBNyh6E=|IUAxEB45GXaGAq8O6unCkefzo4eBirOURMjNOSgrvdqnyNO7F3qGpA==",
+            "signature": "digestalg-1|wTun6SKAROGVticA3pYQWoXpzRA=|BEwRl1Sr0MK5jWs724j8du+66b0mATP/KwoPaFoNGvcZ4I05Z2XXqg==",
             "language": "English"
         }
     },
@@ -109,13 +109,13 @@
     "http://d.opencalais.com/dochash-1/11acd873-f26b-32d3-8c3b-6de9e8734bcb/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260234:202302260234",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -129,7 +129,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

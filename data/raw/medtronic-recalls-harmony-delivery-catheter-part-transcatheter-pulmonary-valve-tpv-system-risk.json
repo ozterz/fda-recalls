@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/34f984e0-946c-33e9-88b5-129d527ebcab",
             "document": "\nMedtronic is recalling the Harmony Delivery Catheter because it is possible that the bond holding the capsule at the end of the delivery catheter may break during a procedure to place the TPV. \nA capsule bond break could cause procedure delays while the device is replaced with a new one or it may require the patient to undergo additional surgeries. Additionally, a capsule bond break while in use during a procedure could cause serious harm to the patient. Those risks include preventing blood flow and/or completely blocking (embolization or occlusion), tearing and/or splitting (perforation or dissection), or other types of damage to the patient’s blood vessels. \nThere have been 6 reported complaints from clinical cases, one injury, and no deaths associated with the use of these devices. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:20.615"
+            "docDate": "2023-02-27 05:11:39.427"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:20.452",
+            "submissionDate": "2023-02-27 05:11:39.273",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|hP1yyz89fu98pKIGdxQBMFWRkPQ=|eTA2h6rWQCjFfmG+yeleelYuNltvzU5hf5sqkRjfuwM606IBgkBwtA==",
+            "signature": "digestalg-1|mmAJKPRhLnUTA1SfHU2GuzkZzko=|VMLLU6UN8P5oO5k0ebkh79XQc9VCpGCU9NlfRIiqX2dxtuSuBB6zsw==",
             "language": "English"
         }
     },
@@ -118,13 +118,13 @@
     "http://d.opencalais.com/dochash-1/34f984e0-946c-33e9-88b5-129d527ebcab/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -138,7 +138,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

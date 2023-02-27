@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/17559897-f54a-34c4-b032-5d4577ca3d03",
             "document": "\nSML Distribution LLC is recalling these tests because these tests were distributed to U.S. customers without authorization, clearance or approval from the FDA. In addition, SML Distribution LLC did not provide the FDA with adequate validation data to show that the test’s performance is accurate. This means there is a risk of potential false negative, false positive, or misinterpretation of results.\nIf you use the affected product, this may cause serious adverse health consequences or death.\nSML Distribution has received no complaints or reports of injuries, deaths, or adverse events.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:34.325"
+            "docDate": "2023-02-27 05:10:49.919"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:34.183",
+            "submissionDate": "2023-02-27 05:10:49.786",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|MzrmOPE84ZS8hXGyvwrc0FMcgWk=|G52PvgvrUTtemLc4mZ/Fy8qhykVS0azcVvYACamiF+quaES1CAKx5Q==",
+            "signature": "digestalg-1|y3XZ4pvMyRV/CNXkKDPfHNkQTtQ=|IgrYiKNFOuzukRyf1MgmazYdOYteVxHJ9nrnO36/52uRhC3vBqvPPA==",
             "language": "English"
         }
     },
@@ -73,13 +73,13 @@
     "http://d.opencalais.com/dochash-1/17559897-f54a-34c4-b032-5d4577ca3d03/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -93,7 +93,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

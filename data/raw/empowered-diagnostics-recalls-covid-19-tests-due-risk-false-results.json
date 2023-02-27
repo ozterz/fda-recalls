@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/9e9ab296-a277-3ace-9900-52c993979686",
             "document": "\nEmpowered Diagnostics is recalling the CovClear COVID-19 Rapid Antigen Test and ImmunoPass COVID-19 Neutralizing Antibody Rapid Test. These tests were distributed with labeling indicating they are authorized by the FDA, but neither test has been authorized, cleared, or approved for distribution or use in the United States by the FDA. The FDA is concerned about the potentially higher risk of false results when using unauthorized tests.\nThere have been no reports of adverse health consequences or death from use of these tests.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:29.071"
+            "docDate": "2023-02-27 05:10:44.362"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:28.927",
+            "submissionDate": "2023-02-27 05:10:44.191",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|pKqr6D8/T5+7WlRskl91NZU226I=|f2VHKKt/eihUSECFGnaEc3reEIgOWEtqdUk9Ev5m+3WnlQWjCcNHXQ==",
+            "signature": "digestalg-1|rY1TRF+uxSeXuQsznTutvWquw9o=|Dk4h3i6FBd5pHRl/jULfi0TckekKscXYc4dwixcnzzghTLy4c658Fw==",
             "language": "English"
         }
     },
@@ -110,13 +110,13 @@
     "http://d.opencalais.com/dochash-1/9e9ab296-a277-3ace-9900-52c993979686/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260234:202302260234",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -130,7 +130,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/1cf22eee-296d-3b21-8d73-233376b5538d",
             "document": "\nAbbott is recalling certain lots of the Dragonfly OpStar imaging catheter because the marker band farthest from the catheter tip (proximal marker) may become loose and, in two instances, has been observed to separate from the catheter while being used on a person.\nA loose marker band that has separated from the device may remain in the body after the catheter is removed, potentially leading to vascular injuries, including but not limited to embolism (blockage of the vessel), thrombosis (blood clot), dissection (tear), ischemia (inadequate blood supply to the heart), infarction (heart attack), infection, or death.\nThere have been 5 incidents and 1 injury related to this device issue. No deaths have been associated with the use of this device due to this issue.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:17.289"
+            "docDate": "2023-02-27 05:11:36.037"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:17.105",
+            "submissionDate": "2023-02-27 05:11:35.922",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|sW7Np4hmknX0jIlzF0gjT9k+moE=|HlTdTx8kMklzofmxns9wfrejvxg5jgxBaQSiDl7YY9C2qtOyYaf0Kw==",
+            "signature": "digestalg-1|RTD+Mfx/WqHxVJDDBj6wd0H+4FM=|c62w0wDvcxvPGy6koRLhb/yo6Zte0pVus4lHSgWye3dzI/wRSgVxVA==",
             "language": "English"
         }
     },
@@ -136,13 +136,13 @@
     "http://d.opencalais.com/dochash-1/1cf22eee-296d-3b21-8d73-233376b5538d/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -156,7 +156,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

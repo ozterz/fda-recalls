@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/fbc6b0f3-9e4a-3370-aee1-495dfee452bb",
             "document": "\nAmerican Contract Systems is recalling the COVID Test Kit Nonsterile and Clean Catch Urine Kit products because they were assembled in an uncontrolled facility by people without proper training. As a result, the company is unable to verify that the kits will perform as expected. These kits have the potential to give false negative or false positive results or lead to misinterpretation of test results. \nUse of these affected products could cause serious adverse health consequences and death.\nThe company has not received any complaints or reports of injuries or deaths associated with the use of these kits. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:59.407"
+            "docDate": "2023-02-27 05:11:16.826"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:59.259",
+            "submissionDate": "2023-02-27 05:11:16.674",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|HCNi95g078QXO53Xcp11w4dhZkU=|MaKT55cpYVKGt6a4gb8sTECMb/yJNf3PYxnnXKulbXaipJnTEszBuA==",
+            "signature": "digestalg-1|PQrxrs+E1DBhqrbKuWAVuILYI4s=|MW+iCdJXfwngygAFuhaUcvirS3IfwDRPBBvmHWwTcym9/izk3eSvmQ==",
             "language": "English"
         }
     },
@@ -92,13 +92,13 @@
     "http://d.opencalais.com/dochash-1/fbc6b0f3-9e4a-3370-aee1-495dfee452bb/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260234:202302260234",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -112,7 +112,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

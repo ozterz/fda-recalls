@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7",
             "document": "\nTeleflex and their subsidiary Arrow International, LLC are recalling the Arrow MAC Two-Lumen Central Venous Access Kits; Arrow Pressure Injectable Arrowg+ard Blue Plus Three-Lumen Central Venous Catheter (CVC) Kits for the risk of a cross-lumen leak caused by inadequate connections between the top and bottom housings of the Micro Clave Clear Connectors included in the kits. \nUse of affected devices may cause bleeding, fluid leakage, delayed treatment, infection, air in the blood vessels (air embolism), other serious injuries or death. \nTeleflex/Arrow International LLC has reported no injuries or deaths related to this issue. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:34.276"
+            "docDate": "2023-02-27 05:11:54.082"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:34.106",
+            "submissionDate": "2023-02-27 05:11:53.906",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|cfMlliDNQtOua9BzZvCXNdRmieo=|H2dmoRjtfpPu26g+MSIiA8wdJJd7CEIHY4O3wz9Vpea8KXPcbJ27sA==",
+            "signature": "digestalg-1|FmILLTP7GjP52D/ZxsTX9uZEcwQ=|M22Eivrg9hlg1atHdywSYREgpNKTzu7GEhf7QFBH+rITBQmmKeDthA==",
             "language": "English"
         }
     },
@@ -99,13 +99,13 @@
     "http://d.opencalais.com/dochash-1/d31cda85-542b-32c3-a8f9-59abb336caa7/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -119,7 +119,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

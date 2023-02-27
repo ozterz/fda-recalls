@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53",
             "document": "\nGetinge is recalling the Flow-c and Flow-e Anesthesia Systems after receiving reports of cracked or broken on/off switches on the system’s suction unit. If the on/off switch breaks, the suction unit will not work to remove fluids such as phlegm, blood, or stomach (gastric) content from the patient’s mouth and/or airways.\nThis issue could cause a delay during a procedure or in between procedures if the anesthesiologist needs to find another way to suction fluids. Additionally, if the suction device is not working for a longer period of time, these fluids could block a patient’s breathing. The risks of such a blockage may include:\nChoking\nInability of oxygen to get into the blood (acute respiratory failure or ARDS)\nAn infection in the lungs (pneumonia) that prevents oxygen from getting to the blood (respiratory failure)\nBrain injury caused by lack of oxygen to the brain (hypoxia)\nDeath\nThere have been 21 complaints, no injuries and no deaths associated with the use of this device.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:30.850"
+            "docDate": "2023-02-27 05:11:50.706"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:30.671",
+            "submissionDate": "2023-02-27 05:11:50.527",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|vlOQ2/DMbZMOdMxFf8VHbLIutio=|Ad+a54Wp2I9PU9zWOoB2ZrrFsRGPm2yd4+0rY4DhTioR89WI+niQJg==",
+            "signature": "digestalg-1|1Kf/n9lepOB0MRzOX13wAkm4k8A=|ie1wgDvio7PmdjYJVTxzNsMiIz9asIjdM0MuHLc8zZV+FKApQNSi3w==",
             "language": "English"
         }
     },
@@ -153,13 +153,13 @@
     "http://d.opencalais.com/dochash-1/ead3b2d2-5692-315e-a765-c0f1b579ca53/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -173,7 +173,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

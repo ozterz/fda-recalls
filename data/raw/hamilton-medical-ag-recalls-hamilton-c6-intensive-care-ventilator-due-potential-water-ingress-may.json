@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/cb39c648-1b53-3f84-ac49-efdd09de07c6",
             "document": "\nHamilton Medical AG is recalling the HAMILTON-C6 Intensive Care Ventilator after customer complaints revealed a hardware issue with the ventilator’s status indicator board. The status indicator board may become loose, allowing liquid to enter (ingress) between the indicator board and the ventilator’s main board. This water ingress may cause the ventilator to have a technical fault and revert to a safety ventilation mode or revert to an ambient state, which means the patient breathes ambient room air with no assistance or support from the machine.\nWhen the ventilator enters ambient state, an alternative source of ventilation must be provided immediately or the patient may experience interrupted ventilation, brain injury caused by lack of oxygen to the brain (hypoxia), buildup of carbon dioxide in the blood (hypercarbia), other serious injuries, or death.\nThere have been 128 complaints (worldwide) and no injuries or deaths associated with this issue.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:50.948"
+            "docDate": "2023-02-27 05:12:12.951"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:50.779",
+            "submissionDate": "2023-02-27 05:12:12.805",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|tp0fmFzZn+BwdqJdq1RaSDpYLE4=|BLFnw4g4wrD3VsZNOeY0uhoUyvOGKuezaDjYRlXhGJ2rJy2aJTAMaA==",
+            "signature": "digestalg-1|NIgI2NmFDz5kT4+ewo4SG9DrSQg=|Ghu6NZ4UnPNvFAccCLB41B++2oIHIXZ7+RoUesCEZb1qRMqyIaRAYg==",
             "language": "English"
         }
     },
@@ -109,21 +109,21 @@
     "http://d.opencalais.com/dochash-1/cb39c648-1b53-3f84-ac49-efdd09de07c6/Industry/2": {
         "_typeGroup": "industry",
         "forenduserdisplay": "false",
-        "name": "Business Support Services (NEC)",
-        "rcscode": "B:1219",
-        "permid": "4294951782",
+        "name": "Investment Management",
+        "rcscode": "B:1640",
+        "permid": "4294951361",
         "relevance": 0.2
     },
     "http://d.opencalais.com/dochash-1/cb39c648-1b53-3f84-ac49-efdd09de07c6/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -137,7 +137,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/9cf1789e-4fd1-3ea9-943d-d4ad17cfeb90",
             "document": "\nMedtronic is recalling Cobalt/Crome Implantable Cardioverter Defibrillators (ICDs) and Resynchronization Therapy Defibrillators (CRT-Ds) after receiving reports of devices with a short circuit protection (SCP) alert resulting in reduced-energy electric shock delivery, instead of delivering a second phase of high voltage therapy.\nA reduced-energy electrical shock may fail to correct an irregular heartbeat (arrythmia) or may cause an irregular heartbeat. The harms associated with a reduced-energy electric shock or an inaccurate response to an SCP alert may cause serious injury or death.\nThere have been 27 complaints, no injuries, and no deaths associated with this issue.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:23.717"
+            "docDate": "2023-02-27 05:10:38.151"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:23.577",
+            "submissionDate": "2023-02-27 05:10:37.992",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|pv4tfD5WFizo0q493mSeV0x+J8Y=|YYxPVupwdXtgsQD7mS5HLNO0gomTcavMrMBk5D0yjGwdMzdW/tZnWw==",
+            "signature": "digestalg-1|CR5somhW+Bb9r5cwUvPUo/7zHlI=|DbNlMFhHvQphBj9QFekJa8sA6616X2WfbM1Ox0LEH50HoL8quPlmzQ==",
             "language": "English"
         }
     },
@@ -145,19 +145,19 @@
     "http://d.opencalais.com/dochash-1/9cf1789e-4fd1-3ea9-943d-d4ad17cfeb90/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
             "People Override:994:994",
             "index-sluglines:202010230725:202010230725",
-            "index-company-oa3:201909010129:201909010129",
+            "index-company-oa3:202209072147:202209072147",
             "index-vessels:202206111824:202206111824",
             "config-forEndUserDisplay:4:4",
             "config-refineries:994:994",
@@ -165,7 +165,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

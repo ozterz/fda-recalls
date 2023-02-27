@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/34d933eb-dd4d-33ef-a9a3-8df678dd51f9",
             "document": "\nBaxter Healthcare Corporation is recalling Clearlink Basic Solution Set with Duovent after increased customer reports of leaks.\nAs the majority of the Clearlink Basic Solution Sets with Duovent are used for the delivery of hazardous drugs (chemotherapy), leakage could expose healthcare personnel, patients, and others to potentially hazardous drugs that may be toxic and/or are irritants. These leaks may also allow air into the set or breach the sterile fluid pathway, thereby increasing the risk of air embolism and contaminated infusions, respectively. Patients may suffer delayed or interrupted therapy or may not receive the necessary amount of their medication. These issues could lead to serious injury or death. \nThere have been 83 complaints with no injuries and no deaths associated with this issue. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:37.534"
+            "docDate": "2023-02-27 05:11:57.558"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:37.366",
+            "submissionDate": "2023-02-27 05:11:57.393",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|pJHQgBoPm95szxF5SOJj5kNVpvw=|gUV3bQNHG6JCsULAitovNyVYW/9sYTkAM71YD2wKAN/LpGJRmHMiWw==",
+            "signature": "digestalg-1|8kusAp4W2J9eD4LP0Yl2CwMopac=|BFhTOdm2z5Vue+AqHUE0HJtmsOI6OaEU3+7q+N+zvbmuamFqREAwfg==",
             "language": "English"
         }
     },
@@ -109,13 +109,13 @@
     "http://d.opencalais.com/dochash-1/34d933eb-dd4d-33ef-a9a3-8df678dd51f9/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -129,7 +129,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

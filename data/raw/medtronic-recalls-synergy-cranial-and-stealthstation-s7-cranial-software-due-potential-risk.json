@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/706b8643-5f45-3708-9dc1-e6fc7f894527",
             "document": "\nMedtronic is recalling its Synergy Cranial and StealthStation S7 Cranial software due to the potential inaccuracies caused by the Biopsy Depth Gauge Cycle View.\nIf the user encounters the software issue where the graphical Biopsy Depth Gauge is no longer synchronized with other navigation views, it may result in a prolonged procedure, the need for an additional surgical procedure, aborted procedure, tissue injury, including potential for life-threatening injury (such as hemorrhage, unintended tissue damage, or permanent neurological injury), which could lead to death. \nThere have been four complaints regarding this device issue. There have been no reported injuries or deaths.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:18.976"
+            "docDate": "2023-02-27 05:11:37.692"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:18.765",
+            "submissionDate": "2023-02-27 05:11:37.506",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|MQ5zsEQ0r83VklfKl/bbk3zXUmY=|gzDymMTzWgRdBWG6OA4SEmtGetRrshuiXVjxMt66vtZoVwbRF+9ZOw==",
+            "signature": "digestalg-1|joFu0grgkKJyUxmny5D6L1ex3pQ=|ZZC+cxQRf7K9TnHnWouIvqsNJFkx5DoCc+mV7eZv19kIwNSqa9XYHw==",
             "language": "English"
         }
     },
@@ -46,13 +46,13 @@
     "http://d.opencalais.com/dochash-1/706b8643-5f45-3708-9dc1-e6fc7f894527/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -66,7 +66,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

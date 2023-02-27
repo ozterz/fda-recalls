@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/ad5703a1-92ad-35dc-97b0-7e17188e0f29",
             "document": "\nAvanos Medical is recalling the Cortrak*2 Enteral Access System because there have been reports of injuries and patient deaths after nasoenteric or nasogastric tubes have been misplaced when this device is used to help with their placement.\nThis recall is being used to make updates to the device's labeling, including the instructions for use and intended uses. The updates instruct users to confirm tube placement based on their institution's protocols before using the tube to deliver nutrition.\nIf a nasogastric or nasoenteric tube is inserted incorrectly, patients could experience damage to the vocal cords, lungs, or trachea, all of which can lead to serious injury or death.\nAccording to Avanos Medical's recall communication, there have been 60 injuries and 23 patient deaths related to misplacement of nasogastric feeding tubes while using the CORTRAK* 2 Enteral Access System, since 2015. Adverse events reported included respiratory failure, pneumothorax (collapsed lung), perforation (a hole in the wall of the lung, esophagus, or bowel), pneumonia (a lung infection), and pleural effusion (excess fluid in the space between the lungs and the chest cavity).\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:57.802"
+            "docDate": "2023-02-27 05:11:15.165"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:57.605",
+            "submissionDate": "2023-02-27 05:11:14.989",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|zyVDKD07dpNBDLgCAegqG1wp3gw=|UVEKvZJjWpgRbeSIakQ310SyH6QOH/RAj5SmS2alqU480ldn1pFzWA==",
+            "signature": "digestalg-1|LImR7w/WwIYbMe1JXrLaBvAsxsc=|XSyj7Da5bE27kwmFBTRbE3/JgG+B2n4VAXpPbjmZjLn8A0M3NkQaEQ==",
             "language": "English"
         }
     },
@@ -145,13 +145,13 @@
     "http://d.opencalais.com/dochash-1/ad5703a1-92ad-35dc-97b0-7e17188e0f29/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -165,7 +165,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

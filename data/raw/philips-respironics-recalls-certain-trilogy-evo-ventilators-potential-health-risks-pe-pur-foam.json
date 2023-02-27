@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/25a71f6f-3e28-3410-873d-3639a0df00f1",
             "document": "\nPhilips Respironics has recalled certain Trilogy Evo ventilators with specific serial numbers due to potential health risks. A Philips supplier incorrectly used polyester-based polyurethane (PE-PUR) sound abatement foam, a non-conforming material, in the muffler assembly of the affected Trilogy Evo ventilators. The issue was identified during lab testing of the Trilogy Evo ventilator. The Trilogy Evo ventilators with non-conforming foam were distributed to customers in the United States and Korea. There have been no reported injuries or death to date.\nThe polyester-based polyurethane (PE-PUR) sound abatement foam, which is used to reduce sound and vibration in these affected devices, may break down and potentially enter the device's air pathway. If this occurs, black debris from the foam or certain chemicals released into the device's air pathway may be inhaled or swallowed by the person using the device.\nFor more information, please see the Potential Health Risks from Sound Abatement Foam section of the Update: Certain Philips Respironics Ventilators, BiPAP, and CPAP Machines Recalled Due to Potential Health Risks: FDA Safety Communication.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:40.806"
+            "docDate": "2023-02-27 05:12:01.638"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:40.602",
+            "submissionDate": "2023-02-27 05:12:01.349",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|jBttNF0QfSHV8M783T56/UNsftQ=|kVV/PZH41BSBn5UFwTRt3/SK37dnjIi7GPy7+FXdJdJgeyVq4ukkIg==",
+            "signature": "digestalg-1|NzumHajMIaYmUlNz9aegsjKEYSc=|eNGOUh4AcvymMEwucS0rnHopSvoyz1e2VvbduAXulnWq2Y5caivpIQ==",
             "language": "English"
         }
     },
@@ -161,13 +161,13 @@
     "http://d.opencalais.com/dochash-1/25a71f6f-3e28-3410-873d-3639a0df00f1/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -181,7 +181,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

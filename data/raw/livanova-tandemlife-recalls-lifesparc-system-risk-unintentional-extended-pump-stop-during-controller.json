@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8",
             "document": "\nLivaNova (TandemLife) is recalling the LifeSPARC Controller, part of the LifeSPARC System due to a software malfunction. The controller’s monitoring feature may erroneously detect frozen or unresponsive software and trigger the device to enter Critical Failure mode—clearing the controller screen and issuing an alarm that cannot be muted or turned off. \nWhile the LifeSPARC Pump should continue to run at the set speed with the allowance of manual speed adjustment in Critical Failure mode, the user has to replace the controller using instructions from the Operations Manual, before disconnecting the pump from the frozen controller. If the user does not follow these specific instructions and powers off the frozen controller prior to acquiring and setting up the backup controller, the pump may stop for an extended period of time during the replacement process. \nAn extended pump stop during use may cause serious injury or death to the patient. \nLivaNova reported that there have been 66 complaints, and the FDA has received two injuries and no deaths due to this issue.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:46.173"
+            "docDate": "2023-02-27 05:11:02.601"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:45.966",
+            "submissionDate": "2023-02-27 05:11:02.415",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|JCjhe0kQkGbZAWvk1+Iv22rq/Ig=|WPD4N+C1SXzuGBW3iRupRI4Vr+hcfWcluvOsrbpLLZoF5CgLcFdsPg==",
+            "signature": "digestalg-1|DFjKfg7j59YiNMLGkpc6FtrNkHk=|CPvEeBybms4OoVsejdizr4uTQvtZ4mn27MyoEhTwdFWI//NdmBDkMQ==",
             "language": "English"
         }
     },
@@ -46,13 +46,13 @@
     "http://d.opencalais.com/dochash-1/e6e96e54-95d0-389d-846e-70c9d2cabbc8/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -66,7 +66,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

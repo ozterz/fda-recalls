@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/9ea1dfb7-4070-3584-ae5b-38e2a2766db8",
             "document": "\nCelltrion USA is recalling the affected POC DiaTrust COVID-19 Ag Rapid Test because it may have been distributed to unauthorized users. This test is authorized for use only by laboratories with CLIA certification and a corresponding CLIA Certificate Number (CCN). CLIA-certified laboratories must meet specific criteria that qualify them to perform diagnostic tests. Emergency use of these tests is limited to authorized laboratories and use of these tests in unauthorized settings (for example, customers without CLIA -certification) may present an increased risk of false results as the persons performing these tests may not have the qualifications or training to properly and safely administer them.\nAlthough there have been no reports of injuries, adverse health consequences, or death associated with the use of these affected products, false positive or false negative results from improper use of these tests could lead to further exposure of uninfected individuals to SARS-CoV-2 virus. There are also serious injury risks if someone who is not trained to collect a nasopharyngeal swab sample attempts to do so.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:35.936"
+            "docDate": "2023-02-27 05:10:51.755"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:35.716",
+            "submissionDate": "2023-02-27 05:10:51.603",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|6xJBhO8eKAbD0O6X7qE6VjF/tu4=|Maf436PBAnCWxn+Brh2oNmDUrrIWfLgWCjHdCDUg/zgOjA+UL6ecNQ==",
+            "signature": "digestalg-1|vzR1jhv6QcnXgl3M5iKyo7Aqdn0=|FdJQtkR97ngo/Saec6fCyCx1FsRWKWrDcd1P9p48ger5rgfdbjbYKQ==",
             "language": "English"
         }
     },
@@ -92,29 +92,29 @@
     "http://d.opencalais.com/dochash-1/9ea1dfb7-4070-3584-ae5b-38e2a2766db8/Industry/1": {
         "_typeGroup": "industry",
         "forenduserdisplay": "false",
-        "name": "Software (NEC)",
-        "rcscode": "B:1796",
-        "permid": "4294951205",
-        "relevance": 0.8
-    },
-    "http://d.opencalais.com/dochash-1/9ea1dfb7-4070-3584-ae5b-38e2a2766db8/Industry/2": {
-        "_typeGroup": "industry",
-        "forenduserdisplay": "false",
         "name": "Biotechnology & Medical Research (NEC)",
         "rcscode": "B:1736",
         "permid": "4294951265",
         "relevance": 0.8
     },
+    "http://d.opencalais.com/dochash-1/9ea1dfb7-4070-3584-ae5b-38e2a2766db8/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Software (NEC)",
+        "rcscode": "B:1796",
+        "permid": "4294951205",
+        "relevance": 0.8
+    },
     "http://d.opencalais.com/dochash-1/9ea1dfb7-4070-3584-ae5b-38e2a2766db8/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -128,7 +128,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a",
             "document": "\nBaxter Hillrom is recalling the WatchCare IMS after receiving reports that the radiofrequency emissions (RF) from WatchCare devices may interfere with other medical devices, including equipment that is critical to the health and wellbeing of patients, such as:\nInfusion pumps \nInsulin pumps\nBlood glucose sensors\nFetal monitors / dopplers\nTelemetry devices\nBladder scanners\nOther third-party medical devices may also be affected. The RF interference from WatchCare may cause erroneous readings or malfunctions of these other devices on both patients and staff, which could lead to inappropriate medical treatments or lack of treatment. If WatchCare RF emissions affect a medically necessary device such as a blood glucose sensor, insulin pump, fetal monitor, or general infusion pump, among others, this issue could lead to serious injury or death.\nBaxter reported 96 complaints of interference. To date, interferences in all cases but two occurred at distances less than 1 meter. There is insufficient data about distance on the remaining two reported interferences. There have been no reports of serious injuries or deaths related to this issue. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:27.569"
+            "docDate": "2023-02-27 05:11:46.805"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:27.387",
+            "submissionDate": "2023-02-27 05:11:46.634",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|sHYxKiTsrBmD+5F37X/zxanmoL8=|RQn0V/bUxpdNKDzKygX0NCCHvSQh0tjJT1kamj9p7rHQ5Ltm5jCk+Q==",
+            "signature": "digestalg-1|YT2magevPpxGLUqSl8X1diGix9w=|T82fgE509q0TLFNcVBWukco0GwAyLz0aYD8AB0RRLZsRTBAwkO1EQQ==",
             "language": "English"
         }
     },
@@ -137,13 +137,13 @@
     "http://d.opencalais.com/dochash-1/79121416-2e3e-3217-88ef-2e0428faab5a/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -157,7 +157,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

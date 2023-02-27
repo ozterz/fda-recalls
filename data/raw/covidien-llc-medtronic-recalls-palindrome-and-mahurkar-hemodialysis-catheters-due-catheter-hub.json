@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/d49f3fd9-ecaf-39a5-b9c9-e895c87877a1",
             "document": "\nCovidien, LLC (Medtronic) is recalling the Palindrome and Mahurkar catheters due to a catheter hub defect that will connect both extension catheters. There is a potential leaking condition within the hub of specific chronic dialysis catheters. This may be noticed when flushing one extension tube and the flow of fluid through the tip of the catheter returns unanticipated fluid through the adjacent extension tube. During treatment, this leak could result in mixing of the arterial and venous blood and lead to increased recirculation and poor dialysis, and the development of thrombi and emboli. \nThe use of the defective catheter may cause serious adverse health outcomes, including bleeding, surgical removal and replacement of the affected catheter.\nThere has been one complaint. There have been no reports of death or injury. \n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:03:15.642"
+            "docDate": "2023-02-27 05:11:34.281"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:03:15.497",
+            "submissionDate": "2023-02-27 05:11:34.098",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|yTIobhwno2Cz37W4jWn13AioebU=|TP2VoOspZJcez/eeiJ42bud+tIV7ILMeyiwjg1/Hnsw7VrYacBfDyg==",
+            "signature": "digestalg-1|EvKdHcXvz+UtX5b8HpUA5XgCook=|DSJceR2Y/DfeQdRKOQ5HfoGbZjQ8LIjw+1Ec3Y4AXDNbyWo/Wx0Fog==",
             "language": "English"
         }
     },
@@ -109,13 +109,13 @@
     "http://d.opencalais.com/dochash-1/d49f3fd9-ecaf-39a5-b9c9-e895c87877a1/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260339:202302260339",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -129,7 +129,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]

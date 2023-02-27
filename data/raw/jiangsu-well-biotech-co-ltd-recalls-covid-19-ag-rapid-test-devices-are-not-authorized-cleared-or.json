@@ -6,7 +6,7 @@
             "docId": "http://d.opencalais.com/dochash-1/6abf10bc-977e-3bda-9c12-3dcbcc6dd633",
             "document": "\nJiangsu Well Biotech Co., Ltd. is recalling COVID-19 Ag Rapid Test Devices because they were distributed to U.S. customers without authorization, clearance, or approval from the FDA. The company has not provided the FDA with adequate validation data to show that the test's performance is accurate. This means there is a risk of potential false negative, false positive, or misinterpretation of results.\nUse of these tests may cause serious adverse health consequences or death. There is also a risk of injury if users follow any labeling instructions directing self-collection of nasopharyngeal or oropharyngeal samples.\nThere have been no complaints or reports of injuries or deaths.\n",
             "docTitle": "",
-            "docDate": "2023-02-26 04:02:37.668"
+            "docDate": "2023-02-27 05:10:53.729"
         },
         "meta": {
             "contentType": "text/raw",
@@ -14,9 +14,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "N/A",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2023-02-26 04:02:37.502",
+            "submissionDate": "2023-02-27 05:10:53.572",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|eoloJDMEM6luWkJGBtUXUm/FrW0=|IEvyU0BE90TRta1kf6QlgHBvDoSGt3Hde3tCYB37kJbxUM4UTDigtw==",
+            "signature": "digestalg-1|+3+5XbCZ89wEuOhtwhBGSVLReQI=|E/9WAhXOi7i0AUPGbgOk+ifILEktWnHbO0DF99Zp0V31tqk4SF5ljQ==",
             "language": "English"
         }
     },
@@ -134,13 +134,13 @@
     "http://d.opencalais.com/dochash-1/6abf10bc-977e-3bda-9c12-3dcbcc6dd633/ComponentVersions": {
         "_typeGroup": "versions",
         "version": [
-            "Deals Index:202302260234:202302260234",
+            "Deals Index:202302270436:202302270436",
             "index-refineries:202107102126:202107102126",
             "config-physicalAssets-powerStations:1227:1227",
             "NextTags:2.5.181-legacy-trit-release-master:181",
             "config-sca-DataPackage:50:50",
             "config-companyNe:90399:90399",
-            "People Index:202302260231:202302260231",
+            "People Index:202302270226:202302270226",
             "config-negativeSignature:994:994",
             "Dial4J:OneCalais_12.1-RELEASE:90",
             "OA Override:90396:90396",
@@ -154,7 +154,7 @@
             "config-vessels:994:994",
             "config-physicalAssets-mines:1227:1227",
             "BlackList:994:994",
-            "index-ports:202302211251:202302211251",
+            "index-ports:202302251724:202302251724",
             "config-physicalAssets-ports:994:994",
             "config-drugs:994:994"
         ]
